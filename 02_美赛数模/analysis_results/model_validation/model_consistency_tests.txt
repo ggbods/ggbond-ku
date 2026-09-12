@@ -1,0 +1,1708 @@
+模型一致性检验结果 (Model Consistency Test Results)
+============================================================
+赛季 1 (周数: 5):
+  Kruskal-Wallis统计量: 4.6483
+  p值: 0.3253
+  一致性: 通过
+  两两比较结果 (Pairwise comparison results):
+    Week 1 vs Week 2: p值 = 1.0000
+    Week 1 vs Week 3: p值 = 0.2468
+    Week 1 vs Week 4: p值 = 1.0000
+    Week 1 vs Week 5: p值 = 0.0238
+    Week 2 vs Week 3: p值 = 0.6623
+    Week 2 vs Week 4: p值 = 0.3524
+    Week 2 vs Week 5: p值 = 0.2619
+    Week 3 vs Week 4: p值 = 1.0000
+    Week 3 vs Week 5: p值 = 0.0357
+    Week 4 vs Week 5: p值 = 1.0000
+
+赛季 2 (周数: 8):
+  Kruskal-Wallis统计量: 32.4542
+  p值: 0.0000
+  一致性: 不通过
+  两两比较结果 (Pairwise comparison results):
+    Week 1 vs Week 2: p值 = 0.0305
+    Week 1 vs Week 3: p值 = 0.0040
+    Week 1 vs Week 4: p值 = 0.0074
+    Week 1 vs Week 5: p值 = 0.0002
+    Week 1 vs Week 6: p值 = 0.0004
+    Week 1 vs Week 7: p值 = 0.0924
+    Week 1 vs Week 8: p值 = 0.0009
+    Week 2 vs Week 3: p值 = 0.1672
+    Week 2 vs Week 4: p值 = 0.0311
+    Week 2 vs Week 5: p值 = 0.0016
+    Week 2 vs Week 6: p值 = 0.0010
+    Week 2 vs Week 7: p值 = 0.1986
+    Week 2 vs Week 8: p值 = 0.0091
+    Week 3 vs Week 4: p值 = 0.0939
+    Week 3 vs Week 5: p值 = 0.0127
+    Week 3 vs Week 6: p值 = 0.0016
+    Week 3 vs Week 7: p值 = 0.1535
+    Week 3 vs Week 8: p值 = 0.0121
+    Week 4 vs Week 5: p值 = 0.2949
+    Week 4 vs Week 6: p值 = 0.0025
+    Week 4 vs Week 7: p值 = 0.2303
+    Week 4 vs Week 8: p值 = 0.0167
+    Week 5 vs Week 6: p值 = 0.0519
+    Week 5 vs Week 7: p值 = 0.2571
+    Week 5 vs Week 8: p值 = 0.0238
+    Week 6 vs Week 7: p值 = 0.2857
+    Week 6 vs Week 8: p值 = 0.0357
+    Week 7 vs Week 8: p值 = 1.0000
+
+赛季 3 (周数: 9):
+  Kruskal-Wallis统计量: 35.7331
+  p值: 0.0000
+  一致性: 不通过
+  两两比较结果 (Pairwise comparison results):
+    Week 1 vs Week 2: p值 = 0.2453
+    Week 1 vs Week 3: p值 = 0.0122
+    Week 1 vs Week 4: p值 = 0.0091
+    Week 1 vs Week 5: p值 = 0.0154
+    Week 1 vs Week 6: p值 = 0.0005
+    Week 1 vs Week 7: p值 = 0.0192
+    Week 1 vs Week 8: p值 = 0.0015
+    Week 1 vs Week 9: p值 = 0.0055
+    Week 2 vs Week 3: p值 = 0.0499
+    Week 2 vs Week 4: p值 = 0.0155
+    Week 2 vs Week 5: p值 = 0.0431
+    Week 2 vs Week 6: p值 = 0.0013
+    Week 2 vs Week 7: p值 = 0.0400
+    Week 2 vs Week 8: p值 = 0.0020
+    Week 2 vs Week 9: p值 = 0.0070
+    Week 3 vs Week 4: p值 = 0.0592
+    Week 3 vs Week 5: p值 = 0.0907
+    Week 3 vs Week 6: p值 = 0.0040
+    Week 3 vs Week 7: p值 = 0.0599
+    Week 3 vs Week 8: p值 = 0.0112
+    Week 3 vs Week 9: p值 = 0.0091
+    Week 4 vs Week 5: p值 = 0.1520
+    Week 4 vs Week 6: p值 = 0.0451
+    Week 4 vs Week 7: p值 = 0.0653
+    Week 4 vs Week 8: p值 = 0.1091
+    Week 4 vs Week 9: p值 = 0.0242
+    Week 5 vs Week 6: p值 = 0.0480
+    Week 5 vs Week 7: p值 = 0.0732
+    Week 5 vs Week 8: p值 = 0.1091
+    Week 5 vs Week 9: p值 = 0.2667
+    Week 6 vs Week 7: p值 = 0.5476
+    Week 6 vs Week 8: p值 = 0.1905
+    Week 6 vs Week 9: p值 = 0.3929
+    Week 7 vs Week 8: p值 = 0.1905
+    Week 7 vs Week 9: p值 = 0.3929
+    Week 8 vs Week 9: p值 = 0.4000
+
+赛季 4 (周数: 10):
+  Kruskal-Wallis统计量: 38.1608
+  p值: 0.0000
+  一致性: 不通过
+  两两比较结果 (Pairwise comparison results):
+    Week 1 vs Week 2: p值 = 0.4701
+    Week 1 vs Week 3: p值 = 0.0845
+    Week 1 vs Week 4: p值 = 0.0402
+    Week 1 vs Week 5: p值 = 0.0506
+    Week 1 vs Week 6: p值 = 0.0114
+    Week 1 vs Week 7: p值 = 0.0273
+    Week 1 vs Week 8: p值 = 0.0055
+    Week 1 vs Week 9: p值 = 0.0015
+    Week 1 vs Week 10: p值 = 0.0055
+    Week 2 vs Week 3: p值 = 0.0980
+    Week 2 vs Week 4: p值 = 0.0334
+    Week 2 vs Week 5: p值 = 0.0328
+    Week 2 vs Week 6: p值 = 0.0083
+    Week 2 vs Week 7: p值 = 0.0202
+    Week 2 vs Week 8: p值 = 0.0133
+    Week 2 vs Week 9: p值 = 0.0015
+    Week 2 vs Week 10: p值 = 0.0055
+    Week 3 vs Week 4: p值 = 0.3074
+    Week 3 vs Week 5: p值 = 0.2743
+    Week 3 vs Week 6: p值 = 0.0136
+    Week 3 vs Week 7: p值 = 0.0225
+    Week 3 vs Week 8: p值 = 0.0400
+    Week 3 vs Week 9: p值 = 0.0020
+    Week 3 vs Week 10: p值 = 0.0070
+    Week 4 vs Week 5: p值 = 0.4807
+    Week 4 vs Week 6: p值 = 0.0311
+    Week 4 vs Week 7: p值 = 0.0360
+    Week 4 vs Week 8: p值 = 0.0599
+    Week 4 vs Week 9: p值 = 0.0196
+    Week 4 vs Week 10: p值 = 0.0091
+    Week 5 vs Week 6: p值 = 0.0939
+    Week 5 vs Week 7: p值 = 0.0426
+    Week 5 vs Week 8: p值 = 0.0653
+    Week 5 vs Week 9: p值 = 0.0485
+    Week 5 vs Week 10: p值 = 0.0121
+    Week 6 vs Week 7: p值 = 0.0350
+    Week 6 vs Week 8: p值 = 0.0732
+    Week 6 vs Week 9: p值 = 0.1636
+    Week 6 vs Week 10: p值 = 0.0167
+    Week 7 vs Week 8: p值 = 0.1775
+    Week 7 vs Week 9: p值 = 0.1714
+    Week 7 vs Week 10: p值 = 0.0238
+    Week 8 vs Week 9: p值 = 0.1905
+    Week 8 vs Week 10: p值 = 0.0357
+    Week 9 vs Week 10: p值 = 0.0571
+
+赛季 5 (周数: 10):
+  Kruskal-Wallis统计量: 39.2685
+  p值: 0.0000
+  一致性: 不通过
+  两两比较结果 (Pairwise comparison results):
+    Week 1 vs Week 2: p值 = 0.0392
+    Week 1 vs Week 3: p值 = 0.0192
+    Week 1 vs Week 4: p值 = 0.0077
+    Week 1 vs Week 5: p值 = 0.0055
+    Week 1 vs Week 6: p值 = 0.0098
+    Week 1 vs Week 7: p值 = 0.0182
+    Week 1 vs Week 8: p值 = 0.0003
+    Week 1 vs Week 9: p值 = 0.1703
+    Week 1 vs Week 10: p值 = 0.0044
+    Week 2 vs Week 3: p值 = 0.4181
+    Week 2 vs Week 4: p值 = 0.0151
+    Week 2 vs Week 5: p值 = 0.0050
+    Week 2 vs Week 6: p值 = 0.0083
+    Week 2 vs Week 7: p值 = 0.0202
+    Week 2 vs Week 8: p值 = 0.0005
+    Week 2 vs Week 9: p值 = 0.1377
+    Week 2 vs Week 10: p值 = 0.0055
+    Week 3 vs Week 4: p值 = 0.0662
+    Week 3 vs Week 5: p值 = 0.0266
+    Week 3 vs Week 6: p值 = 0.0136
+    Week 3 vs Week 7: p值 = 0.0225
+    Week 3 vs Week 8: p值 = 0.0013
+    Week 3 vs Week 9: p值 = 0.1878
+    Week 3 vs Week 10: p值 = 0.0070
+    Week 4 vs Week 5: p值 = 0.3213
+    Week 4 vs Week 6: p值 = 0.0229
+    Week 4 vs Week 7: p值 = 0.0256
+    Week 4 vs Week 8: p值 = 0.0120
+    Week 4 vs Week 9: p值 = 0.1483
+    Week 4 vs Week 10: p值 = 0.0091
+    Week 5 vs Week 6: p值 = 0.1206
+    Week 5 vs Week 7: p值 = 0.0593
+    Week 5 vs Week 8: p值 = 0.0451
+    Week 5 vs Week 9: p值 = 0.2141
+    Week 5 vs Week 10: p值 = 0.0121
+    Week 6 vs Week 7: p值 = 0.3660
+    Week 6 vs Week 8: p值 = 0.1061
+    Week 6 vs Week 9: p值 = 0.1636
+    Week 6 vs Week 10: p值 = 0.0167
+    Week 7 vs Week 8: p值 = 0.3290
+    Week 7 vs Week 9: p值 = 0.2571
+    Week 7 vs Week 10: p值 = 0.0238
+    Week 8 vs Week 9: p值 = 0.2857
+    Week 8 vs Week 10: p值 = 0.0357
+    Week 9 vs Week 10: p值 = 0.4000
+
+赛季 6 (周数: 10):
+  Kruskal-Wallis统计量: 34.4668
+  p值: 0.0001
+  一致性: 不通过
+  两两比较结果 (Pairwise comparison results):
+    Week 1 vs Week 2: p值 = 0.9310
+    Week 1 vs Week 3: p值 = 0.0092
+    Week 1 vs Week 4: p值 = 0.0077
+    Week 1 vs Week 5: p值 = 0.0055
+    Week 1 vs Week 6: p值 = 0.0052
+    Week 1 vs Week 7: p值 = 0.0245
+    Week 1 vs Week 8: p值 = 0.0637
+    Week 1 vs Week 9: p值 = 0.1703
+    Week 1 vs Week 10: p值 = 0.0044
+    Week 2 vs Week 3: p值 = 0.0192
+    Week 2 vs Week 4: p值 = 0.0095
+    Week 2 vs Week 5: p值 = 0.0073
+    Week 2 vs Week 6: p值 = 0.0052
+    Week 2 vs Week 7: p值 = 0.0245
+    Week 2 vs Week 8: p值 = 0.0637
+    Week 2 vs Week 9: p值 = 0.1703
+    Week 2 vs Week 10: p值 = 0.0044
+    Week 3 vs Week 4: p值 = 0.2364
+    Week 3 vs Week 5: p值 = 0.0343
+    Week 3 vs Week 6: p值 = 0.0097
+    Week 3 vs Week 7: p值 = 0.0225
+    Week 3 vs Week 8: p值 = 0.0553
+    Week 3 vs Week 9: p值 = 0.1419
+    Week 3 vs Week 10: p值 = 0.0070
+    Week 4 vs Week 5: p值 = 0.1672
+    Week 4 vs Week 6: p值 = 0.0311
+    Week 4 vs Week 7: p值 = 0.0360
+    Week 4 vs Week 8: p值 = 0.0829
+    Week 4 vs Week 9: p值 = 0.1986
+    Week 4 vs Week 10: p值 = 0.0091
+    Week 5 vs Week 6: p值 = 0.3357
+    Week 5 vs Week 7: p值 = 0.0426
+    Week 5 vs Week 8: p值 = 0.0932
+    Week 5 vs Week 9: p值 = 0.1535
+    Week 5 vs Week 10: p值 = 0.0121
+    Week 6 vs Week 7: p值 = 0.0513
+    Week 6 vs Week 8: p值 = 0.1061
+    Week 6 vs Week 9: p值 = 0.2303
+    Week 6 vs Week 10: p值 = 0.0167
+    Week 7 vs Week 8: p值 = 0.3290
+    Week 7 vs Week 9: p值 = 0.1714
+    Week 7 vs Week 10: p值 = 0.0238
+    Week 8 vs Week 9: p值 = 0.1905
+    Week 8 vs Week 10: p值 = 0.1429
+    Week 9 vs Week 10: p值 = 0.4000
+
+赛季 7 (周数: 10):
+  Kruskal-Wallis统计量: 48.0761
+  p值: 0.0000
+  一致性: 不通过
+  两两比较结果 (Pairwise comparison results):
+    Week 1 vs Week 2: p值 = 0.0127
+    Week 1 vs Week 3: p值 = 0.0005
+    Week 1 vs Week 4: p值 = 0.0021
+    Week 1 vs Week 5: p值 = 0.0034
+    Week 1 vs Week 6: p值 = 0.0063
+    Week 1 vs Week 7: p值 = 0.0220
+    Week 1 vs Week 8: p值 = 0.0002
+    Week 1 vs Week 9: p值 = 0.0008
+    Week 1 vs Week 10: p值 = 0.0036
+    Week 2 vs Week 3: p值 = 0.0185
+    Week 2 vs Week 4: p值 = 0.0062
+    Week 2 vs Week 5: p值 = 0.0050
+    Week 2 vs Week 6: p值 = 0.0083
+    Week 2 vs Week 7: p值 = 0.0273
+    Week 2 vs Week 8: p值 = 0.0032
+    Week 2 vs Week 9: p值 = 0.0015
+    Week 2 vs Week 10: p值 = 0.0055
+    Week 3 vs Week 4: p值 = 0.3772
+    Week 3 vs Week 5: p值 = 0.0152
+    Week 3 vs Week 6: p值 = 0.0164
+    Week 3 vs Week 7: p值 = 0.0360
+    Week 3 vs Week 8: p值 = 0.0420
+    Week 3 vs Week 9: p值 = 0.0028
+    Week 3 vs Week 10: p值 = 0.0091
+    Week 4 vs Week 5: p值 = 0.0206
+    Week 4 vs Week 6: p值 = 0.0115
+    Week 4 vs Week 7: p值 = 0.0360
+    Week 4 vs Week 8: p值 = 0.0599
+    Week 4 vs Week 9: p值 = 0.0028
+    Week 4 vs Week 10: p值 = 0.0091
+    Week 5 vs Week 6: p值 = 0.0721
+    Week 5 vs Week 7: p值 = 0.0293
+    Week 5 vs Week 8: p值 = 0.0653
+    Week 5 vs Week 9: p值 = 0.0040
+    Week 5 vs Week 10: p值 = 0.0121
+    Week 6 vs Week 7: p值 = 0.0513
+    Week 6 vs Week 8: p值 = 0.0732
+    Week 6 vs Week 9: p值 = 0.0424
+    Week 6 vs Week 10: p值 = 0.0167
+    Week 7 vs Week 8: p值 = 0.0823
+    Week 7 vs Week 9: p值 = 0.1714
+    Week 7 vs Week 10: p值 = 0.0238
+    Week 8 vs Week 9: p值 = 0.1905
+    Week 8 vs Week 10: p值 = 0.0357
+    Week 9 vs Week 10: p值 = 0.0571
+
+赛季 8 (周数: 11):
+  Kruskal-Wallis统计量: 47.6723
+  p值: 0.0000
+  一致性: 不通过
+  两两比较结果 (Pairwise comparison results):
+    Week 1 vs Week 2: p值 = 0.3833
+    Week 1 vs Week 3: p值 = 0.1654
+    Week 1 vs Week 4: p值 = 0.0725
+    Week 1 vs Week 5: p值 = 0.0041
+    Week 1 vs Week 6: p值 = 0.0034
+    Week 1 vs Week 7: p值 = 0.0034
+    Week 1 vs Week 8: p值 = 0.0220
+    Week 1 vs Week 9: p值 = 0.0593
+    Week 1 vs Week 10: p值 = 0.0008
+    Week 1 vs Week 11: p值 = 0.0036
+    Week 2 vs Week 3: p值 = 0.2012
+    Week 2 vs Week 4: p值 = 0.0637
+    Week 2 vs Week 5: p值 = 0.0027
+    Week 2 vs Week 6: p值 = 0.0025
+    Week 2 vs Week 7: p值 = 0.0047
+    Week 2 vs Week 8: p值 = 0.0167
+    Week 2 vs Week 9: p值 = 0.0460
+    Week 2 vs Week 10: p值 = 0.0008
+    Week 2 vs Week 11: p值 = 0.0036
+    Week 3 vs Week 4: p值 = 0.4417
+    Week 3 vs Week 5: p值 = 0.0142
+    Week 3 vs Week 6: p值 = 0.0073
+    Week 3 vs Week 7: p值 = 0.0052
+    Week 3 vs Week 8: p值 = 0.0182
+    Week 3 vs Week 9: p值 = 0.0485
+    Week 3 vs Week 10: p值 = 0.0011
+    Week 3 vs Week 11: p值 = 0.0044
+    Week 4 vs Week 5: p值 = 0.0227
+    Week 4 vs Week 6: p值 = 0.0157
+    Week 4 vs Week 7: p值 = 0.0041
+    Week 4 vs Week 8: p值 = 0.0273
+    Week 4 vs Week 9: p值 = 0.0687
+    Week 4 vs Week 10: p值 = 0.0015
+    Week 4 vs Week 11: p值 = 0.0055
+    Week 5 vs Week 6: p值 = 0.3213
+    Week 5 vs Week 7: p值 = 0.0229
+    Week 5 vs Week 8: p值 = 0.0256
+    Week 5 vs Week 9: p值 = 0.0599
+    Week 5 vs Week 10: p值 = 0.0028
+    Week 5 vs Week 11: p值 = 0.0091
+    Week 6 vs Week 7: p值 = 0.1893
+    Week 6 vs Week 8: p值 = 0.0426
+    Week 6 vs Week 9: p值 = 0.0932
+    Week 6 vs Week 10: p值 = 0.0081
+    Week 6 vs Week 11: p值 = 0.0121
+    Week 7 vs Week 8: p值 = 0.0734
+    Week 7 vs Week 9: p值 = 0.1061
+    Week 7 vs Week 10: p值 = 0.0424
+    Week 7 vs Week 11: p值 = 0.0167
+    Week 8 vs Week 9: p值 = 0.1255
+    Week 8 vs Week 10: p值 = 0.1714
+    Week 8 vs Week 11: p值 = 0.0238
+    Week 9 vs Week 10: p值 = 0.2857
+    Week 9 vs Week 11: p值 = 0.0357
+    Week 10 vs Week 11: p值 = 0.0571
+
+赛季 9 (周数: 10):
+  Kruskal-Wallis统计量: 44.6363
+  p值: 0.0000
+  一致性: 不通过
+  两两比较结果 (Pairwise comparison results):
+    Week 1 vs Week 2: p值 = 0.1190
+    Week 1 vs Week 3: p值 = 0.0300
+    Week 1 vs Week 4: p值 = 0.0009
+    Week 1 vs Week 5: p值 = 0.0008
+    Week 1 vs Week 6: p值 = 0.0030
+    Week 1 vs Week 7: p值 = 0.0000
+    Week 1 vs Week 8: p值 = 0.0500
+    Week 1 vs Week 9: p值 = 0.1482
+    Week 1 vs Week 10: p值 = 0.0021
+    Week 2 vs Week 3: p值 = 0.5124
+    Week 2 vs Week 4: p值 = 0.0079
+    Week 2 vs Week 5: p值 = 0.0031
+    Week 2 vs Week 6: p值 = 0.0182
+    Week 2 vs Week 7: p值 = 0.0000
+    Week 2 vs Week 8: p值 = 0.0437
+    Week 2 vs Week 9: p值 = 0.1268
+    Week 2 vs Week 10: p值 = 0.0029
+    Week 3 vs Week 4: p值 = 0.0370
+    Week 3 vs Week 5: p值 = 0.0120
+    Week 3 vs Week 6: p值 = 0.0326
+    Week 3 vs Week 7: p值 = 0.0002
+    Week 3 vs Week 8: p值 = 0.0593
+    Week 3 vs Week 9: p值 = 0.1630
+    Week 3 vs Week 10: p值 = 0.0036
+    Week 4 vs Week 5: p值 = 0.3072
+    Week 4 vs Week 6: p值 = 0.1965
+    Week 4 vs Week 7: p值 = 0.0019
+    Week 4 vs Week 8: p值 = 0.0517
+    Week 4 vs Week 9: p值 = 0.1377
+    Week 4 vs Week 10: p值 = 0.0055
+    Week 5 vs Week 6: p值 = 0.3477
+    Week 5 vs Week 7: p值 = 0.0250
+    Week 5 vs Week 8: p值 = 0.0553
+    Week 5 vs Week 9: p值 = 0.1419
+    Week 5 vs Week 10: p值 = 0.0070
+    Week 6 vs Week 7: p值 = 0.0907
+    Week 6 vs Week 8: p值 = 0.0829
+    Week 6 vs Week 9: p值 = 0.1986
+    Week 6 vs Week 10: p值 = 0.0091
+    Week 7 vs Week 8: p值 = 0.1061
+    Week 7 vs Week 9: p值 = 0.2303
+    Week 7 vs Week 10: p值 = 0.0167
+    Week 8 vs Week 9: p值 = 0.1905
+    Week 8 vs Week 10: p值 = 0.1429
+    Week 9 vs Week 10: p值 = 0.8571
+
+赛季 10 (周数: 10):
+  Kruskal-Wallis统计量: 40.6807
+  p值: 0.0000
+  一致性: 不通过
+  两两比较结果 (Pairwise comparison results):
+    Week 1 vs Week 2: p值 = 0.5545
+    Week 1 vs Week 3: p值 = 0.2453
+    Week 1 vs Week 4: p值 = 0.0334
+    Week 1 vs Week 5: p值 = 0.0157
+    Week 1 vs Week 6: p值 = 0.0083
+    Week 1 vs Week 7: p值 = 0.0071
+    Week 1 vs Week 8: p值 = 0.0018
+    Week 1 vs Week 9: p值 = 0.0015
+    Week 1 vs Week 10: p值 = 0.0055
+    Week 2 vs Week 3: p值 = 0.4181
+    Week 2 vs Week 4: p值 = 0.0806
+    Week 2 vs Week 5: p值 = 0.0203
+    Week 2 vs Week 6: p值 = 0.0114
+    Week 2 vs Week 7: p值 = 0.0103
+    Week 2 vs Week 8: p值 = 0.0032
+    Week 2 vs Week 9: p值 = 0.0015
+    Week 2 vs Week 10: p值 = 0.0055
+    Week 3 vs Week 4: p值 = 0.4877
+    Week 3 vs Week 5: p值 = 0.1457
+    Week 3 vs Week 6: p值 = 0.0136
+    Week 3 vs Week 7: p值 = 0.0160
+    Week 3 vs Week 8: p值 = 0.0127
+    Week 3 vs Week 9: p值 = 0.0020
+    Week 3 vs Week 10: p值 = 0.0070
+    Week 4 vs Week 5: p值 = 0.3704
+    Week 4 vs Week 6: p值 = 0.0907
+    Week 4 vs Week 7: p值 = 0.0256
+    Week 4 vs Week 8: p值 = 0.0290
+    Week 4 vs Week 9: p值 = 0.0028
+    Week 4 vs Week 10: p值 = 0.0091
+    Week 5 vs Week 6: p值 = 0.3357
+    Week 5 vs Week 7: p值 = 0.0593
+    Week 5 vs Week 8: p值 = 0.0451
+    Week 5 vs Week 9: p值 = 0.0162
+    Week 5 vs Week 10: p值 = 0.0121
+    Week 6 vs Week 7: p值 = 0.1807
+    Week 6 vs Week 8: p值 = 0.0732
+    Week 6 vs Week 9: p值 = 0.0424
+    Week 6 vs Week 10: p值 = 0.0167
+    Week 7 vs Week 8: p值 = 0.1255
+    Week 7 vs Week 9: p值 = 0.1714
+    Week 7 vs Week 10: p值 = 0.0238
+    Week 8 vs Week 9: p值 = 0.1905
+    Week 8 vs Week 10: p值 = 0.0357
+    Week 9 vs Week 10: p值 = 0.0571
+
+赛季 11 (周数: 10):
+  Kruskal-Wallis统计量: 34.1692
+  p值: 0.0001
+  一致性: 不通过
+  两两比较结果 (Pairwise comparison results):
+    Week 1 vs Week 2: p值 = 0.3099
+    Week 1 vs Week 3: p值 = 0.0192
+    Week 1 vs Week 4: p值 = 0.0252
+    Week 1 vs Week 5: p值 = 0.0041
+    Week 1 vs Week 6: p值 = 0.0098
+    Week 1 vs Week 7: p值 = 0.0008
+    Week 1 vs Week 8: p值 = 0.0485
+    Week 1 vs Week 9: p值 = 0.1703
+    Week 1 vs Week 10: p值 = 0.0044
+    Week 2 vs Week 3: p值 = 0.2178
+    Week 2 vs Week 4: p值 = 0.1286
+    Week 2 vs Week 5: p值 = 0.0068
+    Week 2 vs Week 6: p值 = 0.0114
+    Week 2 vs Week 7: p值 = 0.0071
+    Week 2 vs Week 8: p值 = 0.0517
+    Week 2 vs Week 9: p值 = 0.1773
+    Week 2 vs Week 10: p值 = 0.0055
+    Week 3 vs Week 4: p值 = 0.4379
+    Week 3 vs Week 5: p值 = 0.0155
+    Week 3 vs Week 6: p值 = 0.0136
+    Week 3 vs Week 7: p值 = 0.0160
+    Week 3 vs Week 8: p值 = 0.0753
+    Week 3 vs Week 9: p值 = 0.1878
+    Week 3 vs Week 10: p值 = 0.0070
+    Week 4 vs Week 5: p值 = 0.1996
+    Week 4 vs Week 6: p值 = 0.0418
+    Week 4 vs Week 7: p值 = 0.0256
+    Week 4 vs Week 8: p值 = 0.0829
+    Week 4 vs Week 9: p值 = 0.1986
+    Week 4 vs Week 10: p值 = 0.0091
+    Week 5 vs Week 6: p值 = 0.1520
+    Week 5 vs Week 7: p值 = 0.0293
+    Week 5 vs Week 8: p值 = 0.0653
+    Week 5 vs Week 9: p值 = 0.1535
+    Week 5 vs Week 10: p值 = 0.0121
+    Week 6 vs Week 7: p值 = 0.2949
+    Week 6 vs Week 8: p值 = 0.0732
+    Week 6 vs Week 9: p值 = 0.1636
+    Week 6 vs Week 10: p值 = 0.0167
+    Week 7 vs Week 8: p值 = 0.1255
+    Week 7 vs Week 9: p值 = 0.2571
+    Week 7 vs Week 10: p值 = 0.0238
+    Week 8 vs Week 9: p值 = 0.2857
+    Week 8 vs Week 10: p值 = 0.0357
+    Week 9 vs Week 10: p值 = 0.6286
+
+赛季 12 (周数: 10):
+  Kruskal-Wallis统计量: 40.0883
+  p值: 0.0000
+  一致性: 不通过
+  两两比较结果 (Pairwise comparison results):
+    Week 1 vs Week 2: p值 = 0.4701
+    Week 1 vs Week 3: p值 = 0.1131
+    Week 1 vs Week 4: p值 = 0.0122
+    Week 1 vs Week 5: p值 = 0.0050
+    Week 1 vs Week 6: p值 = 0.0083
+    Week 1 vs Week 7: p值 = 0.0273
+    Week 1 vs Week 8: p值 = 0.0687
+    Week 1 vs Week 9: p值 = 0.0015
+    Week 1 vs Week 10: p值 = 0.0055
+    Week 2 vs Week 3: p值 = 0.1927
+    Week 2 vs Week 4: p值 = 0.0151
+    Week 2 vs Week 5: p值 = 0.0036
+    Week 2 vs Week 6: p值 = 0.0083
+    Week 2 vs Week 7: p值 = 0.0202
+    Week 2 vs Week 8: p值 = 0.0517
+    Week 2 vs Week 9: p值 = 0.0015
+    Week 2 vs Week 10: p值 = 0.0055
+    Week 3 vs Week 4: p值 = 0.0550
+    Week 3 vs Week 5: p值 = 0.0044
+    Week 3 vs Week 6: p值 = 0.0097
+    Week 3 vs Week 7: p值 = 0.0225
+    Week 3 vs Week 8: p值 = 0.0753
+    Week 3 vs Week 9: p值 = 0.0020
+    Week 3 vs Week 10: p值 = 0.0070
+    Week 4 vs Week 5: p值 = 0.1996
+    Week 4 vs Week 6: p值 = 0.0229
+    Week 4 vs Week 7: p值 = 0.0256
+    Week 4 vs Week 8: p值 = 0.0599
+    Week 4 vs Week 9: p值 = 0.0028
+    Week 4 vs Week 10: p值 = 0.0091
+    Week 5 vs Week 6: p值 = 0.0939
+    Week 5 vs Week 7: p值 = 0.0426
+    Week 5 vs Week 8: p值 = 0.0932
+    Week 5 vs Week 9: p值 = 0.0283
+    Week 5 vs Week 10: p值 = 0.0121
+    Week 6 vs Week 7: p值 = 0.1375
+    Week 6 vs Week 8: p值 = 0.1061
+    Week 6 vs Week 9: p值 = 0.1091
+    Week 6 vs Week 10: p值 = 0.0167
+    Week 7 vs Week 8: p值 = 0.2468
+    Week 7 vs Week 9: p值 = 0.1714
+    Week 7 vs Week 10: p值 = 0.0238
+    Week 8 vs Week 9: p值 = 0.7302
+    Week 8 vs Week 10: p值 = 0.0357
+    Week 9 vs Week 10: p值 = 0.2286
+
+赛季 13 (周数: 10):
+  Kruskal-Wallis统计量: 46.1525
+  p值: 0.0000
+  一致性: 不通过
+  两两比较结果 (Pairwise comparison results):
+    Week 1 vs Week 2: p值 = 0.2301
+    Week 1 vs Week 3: p值 = 0.0092
+    Week 1 vs Week 4: p值 = 0.0032
+    Week 1 vs Week 5: p值 = 0.0030
+    Week 1 vs Week 6: p值 = 0.0072
+    Week 1 vs Week 7: p值 = 0.0245
+    Week 1 vs Week 8: p值 = 0.0013
+    Week 1 vs Week 9: p值 = 0.0011
+    Week 1 vs Week 10: p值 = 0.0044
+    Week 2 vs Week 3: p值 = 0.0151
+    Week 2 vs Week 4: p值 = 0.0030
+    Week 2 vs Week 5: p值 = 0.0036
+    Week 2 vs Week 6: p值 = 0.0083
+    Week 2 vs Week 7: p值 = 0.0202
+    Week 2 vs Week 8: p值 = 0.0032
+    Week 2 vs Week 9: p值 = 0.0015
+    Week 2 vs Week 10: p值 = 0.0055
+    Week 3 vs Week 4: p值 = 0.0128
+    Week 3 vs Week 5: p值 = 0.0117
+    Week 3 vs Week 6: p值 = 0.0097
+    Week 3 vs Week 7: p值 = 0.0225
+    Week 3 vs Week 8: p值 = 0.0400
+    Week 3 vs Week 9: p值 = 0.0020
+    Week 3 vs Week 10: p值 = 0.0070
+    Week 4 vs Week 5: p值 = 0.2359
+    Week 4 vs Week 6: p值 = 0.0311
+    Week 4 vs Week 7: p值 = 0.0256
+    Week 4 vs Week 8: p值 = 0.0599
+    Week 4 vs Week 9: p值 = 0.0056
+    Week 4 vs Week 10: p值 = 0.0091
+    Week 5 vs Week 6: p值 = 0.2319
+    Week 5 vs Week 7: p值 = 0.0426
+    Week 5 vs Week 8: p值 = 0.0653
+    Week 5 vs Week 9: p值 = 0.0162
+    Week 5 vs Week 10: p值 = 0.0121
+    Week 6 vs Week 7: p值 = 0.1014
+    Week 6 vs Week 8: p值 = 0.0732
+    Week 6 vs Week 9: p值 = 0.0727
+    Week 6 vs Week 10: p值 = 0.0167
+    Week 7 vs Week 8: p值 = 0.2468
+    Week 7 vs Week 9: p值 = 0.1714
+    Week 7 vs Week 10: p值 = 0.0238
+    Week 8 vs Week 9: p值 = 0.1905
+    Week 8 vs Week 10: p值 = 0.0357
+    Week 9 vs Week 10: p值 = 0.0571
+
+赛季 14 (周数: 10):
+  Kruskal-Wallis统计量: 40.4273
+  p值: 0.0000
+  一致性: 不通过
+  两两比较结果 (Pairwise comparison results):
+    Week 1 vs Week 2: p值 = 0.2366
+    Week 1 vs Week 3: p值 = 0.0074
+    Week 1 vs Week 4: p值 = 0.0062
+    Week 1 vs Week 5: p值 = 0.0032
+    Week 1 vs Week 6: p值 = 0.0041
+    Week 1 vs Week 7: p值 = 0.0098
+    Week 1 vs Week 8: p值 = 0.0182
+    Week 1 vs Week 9: p值 = 0.1703
+    Week 1 vs Week 10: p值 = 0.0044
+    Week 2 vs Week 3: p值 = 0.0337
+    Week 2 vs Week 4: p值 = 0.0111
+    Week 2 vs Week 5: p值 = 0.0032
+    Week 2 vs Week 6: p值 = 0.0030
+    Week 2 vs Week 7: p值 = 0.0098
+    Week 2 vs Week 8: p值 = 0.0182
+    Week 2 vs Week 9: p值 = 0.1703
+    Week 2 vs Week 10: p值 = 0.0044
+    Week 3 vs Week 4: p值 = 0.0725
+    Week 3 vs Week 5: p值 = 0.0030
+    Week 3 vs Week 6: p值 = 0.0036
+    Week 3 vs Week 7: p值 = 0.0114
+    Week 3 vs Week 8: p值 = 0.0202
+    Week 3 vs Week 9: p值 = 0.1773
+    Week 3 vs Week 10: p值 = 0.0055
+    Week 4 vs Week 5: p值 = 0.3074
+    Week 4 vs Week 6: p值 = 0.0155
+    Week 4 vs Week 7: p值 = 0.0097
+    Week 4 vs Week 8: p值 = 0.0225
+    Week 4 vs Week 9: p值 = 0.1419
+    Week 4 vs Week 10: p值 = 0.0070
+    Week 5 vs Week 6: p值 = 0.0927
+    Week 5 vs Week 7: p值 = 0.0164
+    Week 5 vs Week 8: p值 = 0.0256
+    Week 5 vs Week 9: p值 = 0.1986
+    Week 5 vs Week 10: p值 = 0.0091
+    Week 6 vs Week 7: p值 = 0.0721
+    Week 6 vs Week 8: p值 = 0.0426
+    Week 6 vs Week 9: p值 = 0.2141
+    Week 6 vs Week 10: p值 = 0.0121
+    Week 7 vs Week 8: p值 = 0.3660
+    Week 7 vs Week 9: p值 = 0.1636
+    Week 7 vs Week 10: p值 = 0.0167
+    Week 8 vs Week 9: p值 = 0.2571
+    Week 8 vs Week 10: p值 = 0.0238
+    Week 9 vs Week 10: p值 = 0.8571
+
+赛季 15 (周数: 10):
+  Kruskal-Wallis统计量: 58.4800
+  p值: 0.0000
+  一致性: 不通过
+  两两比较结果 (Pairwise comparison results):
+    Week 1 vs Week 2: p值 = 0.0684
+    Week 1 vs Week 3: p值 = 0.0175
+    Week 1 vs Week 4: p值 = 0.0027
+    Week 1 vs Week 5: p值 = 0.0000
+    Week 1 vs Week 6: p值 = 0.0034
+    Week 1 vs Week 7: p值 = 0.0000
+    Week 1 vs Week 8: p值 = 0.0003
+    Week 1 vs Week 9: p值 = 0.0002
+    Week 1 vs Week 10: p值 = 0.0036
+    Week 2 vs Week 3: p值 = 0.1661
+    Week 2 vs Week 4: p值 = 0.0025
+    Week 2 vs Week 5: p值 = 0.0000
+    Week 2 vs Week 6: p值 = 0.0041
+    Week 2 vs Week 7: p值 = 0.0000
+    Week 2 vs Week 8: p值 = 0.0026
+    Week 2 vs Week 9: p值 = 0.0003
+    Week 2 vs Week 10: p值 = 0.0044
+    Week 3 vs Week 4: p值 = 0.0039
+    Week 3 vs Week 5: p值 = 0.0001
+    Week 3 vs Week 6: p值 = 0.0050
+    Week 3 vs Week 7: p值 = 0.0001
+    Week 3 vs Week 8: p值 = 0.0041
+    Week 3 vs Week 9: p值 = 0.0005
+    Week 3 vs Week 10: p值 = 0.0055
+    Week 4 vs Week 5: p值 = 0.7430
+    Week 4 vs Week 6: p值 = 0.0464
+    Week 4 vs Week 7: p值 = 0.0549
+    Week 4 vs Week 8: p值 = 0.0907
+    Week 4 vs Week 9: p值 = 0.0010
+    Week 4 vs Week 10: p值 = 0.0091
+    Week 5 vs Week 6: p值 = 0.0830
+    Week 5 vs Week 7: p值 = 0.0939
+    Week 5 vs Week 8: p值 = 0.1520
+    Week 5 vs Week 9: p值 = 0.0016
+    Week 5 vs Week 10: p值 = 0.0121
+    Week 6 vs Week 7: p值 = 0.5358
+    Week 6 vs Week 8: p值 = 0.1206
+    Week 6 vs Week 9: p值 = 0.0295
+    Week 6 vs Week 10: p值 = 0.0121
+    Week 7 vs Week 8: p值 = 0.6200
+    Week 7 vs Week 9: p值 = 0.0303
+    Week 7 vs Week 10: p值 = 0.0167
+    Week 8 vs Week 9: p值 = 0.0480
+    Week 8 vs Week 10: p值 = 0.0167
+    Week 9 vs Week 10: p值 = 0.0357
+
+赛季 16 (周数: 10):
+  Kruskal-Wallis统计量: 42.4165
+  p值: 0.0000
+  一致性: 不通过
+  两两比较结果 (Pairwise comparison results):
+    Week 1 vs Week 2: p值 = 0.9770
+    Week 1 vs Week 3: p值 = 0.2815
+    Week 1 vs Week 4: p值 = 0.0192
+    Week 1 vs Week 5: p值 = 0.0142
+    Week 1 vs Week 6: p值 = 0.0055
+    Week 1 vs Week 7: p值 = 0.0098
+    Week 1 vs Week 8: p值 = 0.0069
+    Week 1 vs Week 9: p值 = 0.0013
+    Week 1 vs Week 10: p值 = 0.0011
+    Week 2 vs Week 3: p值 = 0.3401
+    Week 2 vs Week 4: p值 = 0.0698
+    Week 2 vs Week 5: p值 = 0.0209
+    Week 2 vs Week 6: p值 = 0.0055
+    Week 2 vs Week 7: p值 = 0.0072
+    Week 2 vs Week 8: p值 = 0.0069
+    Week 2 vs Week 9: p值 = 0.0039
+    Week 2 vs Week 10: p值 = 0.0011
+    Week 3 vs Week 4: p值 = 0.3072
+    Week 3 vs Week 5: p值 = 0.0682
+    Week 3 vs Week 6: p值 = 0.0091
+    Week 3 vs Week 7: p值 = 0.0114
+    Week 3 vs Week 8: p值 = 0.0103
+    Week 3 vs Week 9: p值 = 0.0133
+    Week 3 vs Week 10: p值 = 0.0015
+    Week 4 vs Week 5: p值 = 0.2364
+    Week 4 vs Week 6: p值 = 0.0434
+    Week 4 vs Week 7: p值 = 0.0250
+    Week 4 vs Week 8: p值 = 0.0225
+    Week 4 vs Week 9: p值 = 0.0280
+    Week 4 vs Week 10: p值 = 0.0020
+    Week 5 vs Week 6: p值 = 0.3704
+    Week 5 vs Week 7: p值 = 0.0907
+    Week 5 vs Week 8: p值 = 0.0496
+    Week 5 vs Week 9: p值 = 0.0420
+    Week 5 vs Week 10: p值 = 0.0028
+    Week 6 vs Week 7: p值 = 0.2319
+    Week 6 vs Week 8: p值 = 0.0813
+    Week 6 vs Week 9: p值 = 0.0653
+    Week 6 vs Week 10: p值 = 0.0040
+    Week 7 vs Week 8: p值 = 0.1807
+    Week 7 vs Week 9: p值 = 0.0732
+    Week 7 vs Week 10: p值 = 0.0061
+    Week 8 vs Week 9: p值 = 0.0823
+    Week 8 vs Week 10: p值 = 0.0095
+    Week 9 vs Week 10: p值 = 0.0159
+
+赛季 17 (周数: 11):
+  Kruskal-Wallis统计量: 44.9722
+  p值: 0.0000
+  一致性: 不通过
+  两两比较结果 (Pairwise comparison results):
+    Week 1 vs Week 2: p值 = 0.4025
+    Week 1 vs Week 3: p值 = 0.1029
+    Week 1 vs Week 4: p值 = 0.0272
+    Week 1 vs Week 5: p值 = 0.0050
+    Week 1 vs Week 6: p值 = 0.0003
+    Week 1 vs Week 7: p值 = 0.0055
+    Week 1 vs Week 8: p值 = 0.0098
+    Week 1 vs Week 9: p值 = 0.0245
+    Week 1 vs Week 10: p值 = 0.0637
+    Week 1 vs Week 11: p值 = 0.0011
+    Week 2 vs Week 3: p值 = 0.1858
+    Week 2 vs Week 4: p值 = 0.0806
+    Week 2 vs Week 5: p值 = 0.0032
+    Week 2 vs Week 6: p值 = 0.0003
+    Week 2 vs Week 7: p值 = 0.0030
+    Week 2 vs Week 8: p值 = 0.0098
+    Week 2 vs Week 9: p值 = 0.0182
+    Week 2 vs Week 10: p值 = 0.0485
+    Week 2 vs Week 11: p值 = 0.0011
+    Week 3 vs Week 4: p值 = 0.3418
+    Week 3 vs Week 5: p值 = 0.0151
+    Week 3 vs Week 6: p值 = 0.0157
+    Week 3 vs Week 7: p值 = 0.0121
+    Week 3 vs Week 8: p值 = 0.0114
+    Week 3 vs Week 9: p值 = 0.0273
+    Week 3 vs Week 10: p值 = 0.0687
+    Week 3 vs Week 11: p值 = 0.0015
+    Week 4 vs Week 5: p值 = 0.1309
+    Week 4 vs Week 6: p值 = 0.0676
+    Week 4 vs Week 7: p值 = 0.0205
+    Week 4 vs Week 8: p值 = 0.0136
+    Week 4 vs Week 9: p值 = 0.0312
+    Week 4 vs Week 10: p值 = 0.0753
+    Week 4 vs Week 11: p值 = 0.0020
+    Week 5 vs Week 6: p值 = 0.7430
+    Week 5 vs Week 7: p值 = 0.2359
+    Week 5 vs Week 8: p值 = 0.0311
+    Week 5 vs Week 9: p值 = 0.0256
+    Week 5 vs Week 10: p值 = 0.0599
+    Week 5 vs Week 11: p值 = 0.0028
+    Week 6 vs Week 7: p值 = 0.7209
+    Week 6 vs Week 8: p值 = 0.0541
+    Week 6 vs Week 9: p值 = 0.0426
+    Week 6 vs Week 10: p值 = 0.0932
+    Week 6 vs Week 11: p值 = 0.0040
+    Week 7 vs Week 8: p值 = 0.0721
+    Week 7 vs Week 9: p值 = 0.0426
+    Week 7 vs Week 10: p值 = 0.0932
+    Week 7 vs Week 11: p值 = 0.0040
+    Week 8 vs Week 9: p值 = 0.1375
+    Week 8 vs Week 10: p值 = 0.0732
+    Week 8 vs Week 11: p值 = 0.0061
+    Week 9 vs Week 10: p值 = 0.1775
+    Week 9 vs Week 11: p值 = 0.0667
+    Week 10 vs Week 11: p值 = 0.4127
+
+赛季 18 (周数: 10):
+  Kruskal-Wallis统计量: 42.1523
+  p值: 0.0000
+  一致性: 不通过
+  两两比较结果 (Pairwise comparison results):
+    Week 1 vs Week 2: p值 = 0.3401
+    Week 1 vs Week 3: p值 = 0.0050
+    Week 1 vs Week 4: p值 = 0.0032
+    Week 1 vs Week 5: p值 = 0.0032
+    Week 1 vs Week 6: p值 = 0.0030
+    Week 1 vs Week 7: p值 = 0.0072
+    Week 1 vs Week 8: p值 = 0.0245
+    Week 1 vs Week 9: p值 = 0.0485
+    Week 1 vs Week 10: p值 = 0.0011
+    Week 2 vs Week 3: p值 = 0.0276
+    Week 2 vs Week 4: p值 = 0.0227
+    Week 2 vs Week 5: p值 = 0.0039
+    Week 2 vs Week 6: p值 = 0.0036
+    Week 2 vs Week 7: p值 = 0.0059
+    Week 2 vs Week 8: p值 = 0.0273
+    Week 2 vs Week 9: p值 = 0.0687
+    Week 2 vs Week 10: p值 = 0.0015
+    Week 3 vs Week 4: p值 = 0.9296
+    Week 3 vs Week 5: p值 = 0.0774
+    Week 3 vs Week 6: p值 = 0.0152
+    Week 3 vs Week 7: p值 = 0.0164
+    Week 3 vs Week 8: p值 = 0.0360
+    Week 3 vs Week 9: p值 = 0.0829
+    Week 3 vs Week 10: p值 = 0.0028
+    Week 4 vs Week 5: p值 = 0.0637
+    Week 4 vs Week 6: p值 = 0.0152
+    Week 4 vs Week 7: p值 = 0.0164
+    Week 4 vs Week 8: p值 = 0.0360
+    Week 4 vs Week 9: p值 = 0.0829
+    Week 4 vs Week 10: p值 = 0.0028
+    Week 5 vs Week 6: p值 = 0.0592
+    Week 5 vs Week 7: p值 = 0.0115
+    Week 5 vs Week 8: p值 = 0.0256
+    Week 5 vs Week 9: p值 = 0.0599
+    Week 5 vs Week 10: p值 = 0.0028
+    Week 6 vs Week 7: p值 = 0.0289
+    Week 6 vs Week 8: p值 = 0.0426
+    Week 6 vs Week 9: p值 = 0.0932
+    Week 6 vs Week 10: p值 = 0.0040
+    Week 7 vs Week 8: p值 = 0.0513
+    Week 7 vs Week 9: p值 = 0.1061
+    Week 7 vs Week 10: p值 = 0.0061
+    Week 8 vs Week 9: p值 = 0.0823
+    Week 8 vs Week 10: p值 = 0.0095
+    Week 9 vs Week 10: p值 = 0.4127
+
+赛季 19 (周数: 11):
+  Kruskal-Wallis统计量: 44.9142
+  p值: 0.0000
+  一致性: 不通过
+  两两比较结果 (Pairwise comparison results):
+    Week 1 vs Week 2: p值 = 0.3412
+    Week 1 vs Week 3: p值 = 0.1048
+    Week 1 vs Week 4: p值 = 0.0058
+    Week 1 vs Week 5: p值 = 0.0135
+    Week 1 vs Week 6: p值 = 0.0033
+    Week 1 vs Week 7: p值 = 0.0034
+    Week 1 vs Week 8: p值 = 0.0085
+    Week 1 vs Week 9: p值 = 0.0167
+    Week 1 vs Week 10: p值 = 0.0068
+    Week 1 vs Week 11: p值 = 0.0008
+    Week 2 vs Week 3: p值 = 0.5588
+    Week 2 vs Week 4: p值 = 0.0092
+    Week 2 vs Week 5: p值 = 0.0700
+    Week 2 vs Week 6: p值 = 0.0032
+    Week 2 vs Week 7: p值 = 0.0055
+    Week 2 vs Week 8: p值 = 0.0130
+    Week 2 vs Week 9: p值 = 0.0182
+    Week 2 vs Week 10: p值 = 0.0268
+    Week 2 vs Week 11: p值 = 0.0011
+    Week 3 vs Week 4: p值 = 0.1131
+    Week 3 vs Week 5: p值 = 0.1715
+    Week 3 vs Week 6: p值 = 0.0227
+    Week 3 vs Week 7: p值 = 0.0121
+    Week 3 vs Week 8: p值 = 0.0268
+    Week 3 vs Week 9: p值 = 0.0273
+    Week 3 vs Week 10: p值 = 0.0192
+    Week 3 vs Week 11: p值 = 0.0015
+    Week 4 vs Week 5: p值 = 0.5956
+    Week 4 vs Week 6: p值 = 0.0792
+    Week 4 vs Week 7: p值 = 0.0545
+    Week 4 vs Week 8: p值 = 0.0702
+    Week 4 vs Week 9: p值 = 0.0225
+    Week 4 vs Week 10: p值 = 0.0553
+    Week 4 vs Week 11: p值 = 0.0020
+    Week 5 vs Week 6: p值 = 0.6588
+    Week 5 vs Week 7: p值 = 0.0927
+    Week 5 vs Week 8: p值 = 0.0712
+    Week 5 vs Week 9: p值 = 0.0360
+    Week 5 vs Week 10: p值 = 0.0420
+    Week 5 vs Week 11: p值 = 0.0028
+    Week 6 vs Week 7: p值 = 0.1672
+    Week 6 vs Week 8: p值 = 0.1416
+    Week 6 vs Week 9: p值 = 0.0256
+    Week 6 vs Week 10: p值 = 0.0599
+    Week 6 vs Week 11: p值 = 0.0028
+    Week 7 vs Week 8: p值 = 0.2810
+    Week 7 vs Week 9: p值 = 0.0426
+    Week 7 vs Week 10: p值 = 0.0653
+    Week 7 vs Week 11: p值 = 0.0040
+    Week 8 vs Week 9: p值 = 0.1375
+    Week 8 vs Week 10: p值 = 0.0732
+    Week 8 vs Week 11: p值 = 0.0061
+    Week 9 vs Week 10: p值 = 0.0823
+    Week 9 vs Week 11: p值 = 0.0095
+    Week 10 vs Week 11: p值 = 0.0159
+
+赛季 20 (周数: 10):
+  Kruskal-Wallis统计量: 47.6538
+  p值: 0.0000
+  一致性: 不通过
+  两两比较结果 (Pairwise comparison results):
+    Week 1 vs Week 2: p值 = 0.3123
+    Week 1 vs Week 3: p值 = 0.0525
+    Week 1 vs Week 4: p值 = 0.0051
+    Week 1 vs Week 5: p值 = 0.0050
+    Week 1 vs Week 6: p值 = 0.0041
+    Week 1 vs Week 7: p值 = 0.0098
+    Week 1 vs Week 8: p值 = 0.0004
+    Week 1 vs Week 9: p值 = 0.0011
+    Week 1 vs Week 10: p值 = 0.0044
+    Week 2 vs Week 3: p值 = 0.3401
+    Week 2 vs Week 4: p值 = 0.0134
+    Week 2 vs Week 5: p值 = 0.0142
+    Week 2 vs Week 6: p值 = 0.0030
+    Week 2 vs Week 7: p值 = 0.0072
+    Week 2 vs Week 8: p值 = 0.0013
+    Week 2 vs Week 9: p值 = 0.0011
+    Week 2 vs Week 10: p值 = 0.0044
+    Week 3 vs Week 4: p值 = 0.1697
+    Week 3 vs Week 5: p值 = 0.0334
+    Week 3 vs Week 6: p值 = 0.0068
+    Week 3 vs Week 7: p值 = 0.0114
+    Week 3 vs Week 8: p值 = 0.0048
+    Week 3 vs Week 9: p值 = 0.0015
+    Week 3 vs Week 10: p值 = 0.0055
+    Week 4 vs Week 5: p值 = 0.1309
+    Week 4 vs Week 6: p值 = 0.0117
+    Week 4 vs Week 7: p值 = 0.0250
+    Week 4 vs Week 8: p值 = 0.0160
+    Week 4 vs Week 9: p值 = 0.0020
+    Week 4 vs Week 10: p值 = 0.0070
+    Week 5 vs Week 6: p值 = 0.1388
+    Week 5 vs Week 7: p值 = 0.1142
+    Week 5 vs Week 8: p值 = 0.0360
+    Week 5 vs Week 9: p值 = 0.0028
+    Week 5 vs Week 10: p值 = 0.0091
+    Week 6 vs Week 7: p值 = 0.4634
+    Week 6 vs Week 8: p值 = 0.1812
+    Week 6 vs Week 9: p值 = 0.0040
+    Week 6 vs Week 10: p值 = 0.0121
+    Week 7 vs Week 8: p值 = 0.5338
+    Week 7 vs Week 9: p值 = 0.0424
+    Week 7 vs Week 10: p值 = 0.0167
+    Week 8 vs Week 9: p值 = 0.1143
+    Week 8 vs Week 10: p值 = 0.0238
+    Week 9 vs Week 10: p值 = 0.0571
+
+赛季 21 (周数: 11):
+  Kruskal-Wallis统计量: 59.0325
+  p值: 0.0000
+  一致性: 不通过
+  两两比较结果 (Pairwise comparison results):
+    Week 1 vs Week 2: p值 = 0.8375
+    Week 1 vs Week 3: p值 = 0.0101
+    Week 1 vs Week 4: p值 = 0.0070
+    Week 1 vs Week 5: p值 = 0.0007
+    Week 1 vs Week 6: p值 = 0.0027
+    Week 1 vs Week 7: p值 = 0.0034
+    Week 1 vs Week 8: p值 = 0.0024
+    Week 1 vs Week 9: p值 = 0.0001
+    Week 1 vs Week 10: p值 = 0.0008
+    Week 1 vs Week 11: p值 = 0.0008
+    Week 2 vs Week 3: p值 = 0.0120
+    Week 2 vs Week 4: p值 = 0.0058
+    Week 2 vs Week 5: p值 = 0.0004
+    Week 2 vs Week 6: p值 = 0.0027
+    Week 2 vs Week 7: p值 = 0.0034
+    Week 2 vs Week 8: p值 = 0.0034
+    Week 2 vs Week 9: p值 = 0.0001
+    Week 2 vs Week 10: p值 = 0.0008
+    Week 2 vs Week 11: p值 = 0.0008
+    Week 3 vs Week 4: p值 = 0.5708
+    Week 3 vs Week 5: p值 = 0.3074
+    Week 3 vs Week 6: p值 = 0.1309
+    Week 3 vs Week 7: p值 = 0.0343
+    Week 3 vs Week 8: p值 = 0.0136
+    Week 3 vs Week 9: p值 = 0.0075
+    Week 3 vs Week 10: p值 = 0.0020
+    Week 3 vs Week 11: p值 = 0.0020
+    Week 4 vs Week 5: p值 = 0.5956
+    Week 4 vs Week 6: p值 = 0.2057
+    Week 4 vs Week 7: p值 = 0.0343
+    Week 4 vs Week 8: p值 = 0.0097
+    Week 4 vs Week 9: p值 = 0.0075
+    Week 4 vs Week 10: p值 = 0.0020
+    Week 4 vs Week 11: p值 = 0.0020
+    Week 5 vs Week 6: p值 = 0.3314
+    Week 5 vs Week 7: p值 = 0.0360
+    Week 5 vs Week 8: p值 = 0.0311
+    Week 5 vs Week 9: p值 = 0.0120
+    Week 5 vs Week 10: p值 = 0.0028
+    Week 5 vs Week 11: p值 = 0.0028
+    Week 6 vs Week 7: p值 = 0.0745
+    Week 6 vs Week 8: p值 = 0.0418
+    Week 6 vs Week 9: p值 = 0.0256
+    Week 6 vs Week 10: p值 = 0.0028
+    Week 6 vs Week 11: p值 = 0.0028
+    Week 7 vs Week 8: p值 = 0.3969
+    Week 7 vs Week 9: p值 = 0.0293
+    Week 7 vs Week 10: p值 = 0.0040
+    Week 7 vs Week 11: p值 = 0.0040
+    Week 8 vs Week 9: p值 = 0.1375
+    Week 8 vs Week 10: p值 = 0.0061
+    Week 8 vs Week 11: p值 = 0.0061
+    Week 9 vs Week 10: p值 = 0.0095
+    Week 9 vs Week 11: p值 = 0.0095
+    Week 10 vs Week 11: p值 = 1.0000
+
+赛季 22 (周数: 10):
+  Kruskal-Wallis统计量: 47.8150
+  p值: 0.0000
+  一致性: 不通过
+  两两比较结果 (Pairwise comparison results):
+    Week 1 vs Week 2: p值 = 0.9770
+    Week 1 vs Week 3: p值 = 0.0455
+    Week 1 vs Week 4: p值 = 0.0017
+    Week 1 vs Week 5: p值 = 0.0003
+    Week 1 vs Week 6: p值 = 0.0032
+    Week 1 vs Week 7: p值 = 0.0201
+    Week 1 vs Week 8: p值 = 0.0245
+    Week 1 vs Week 9: p值 = 0.0003
+    Week 1 vs Week 10: p值 = 0.0044
+    Week 2 vs Week 3: p值 = 0.0605
+    Week 2 vs Week 4: p值 = 0.0062
+    Week 2 vs Week 5: p值 = 0.0016
+    Week 2 vs Week 6: p值 = 0.0025
+    Week 2 vs Week 7: p值 = 0.0314
+    Week 2 vs Week 8: p值 = 0.0245
+    Week 2 vs Week 9: p值 = 0.0003
+    Week 2 vs Week 10: p值 = 0.0044
+    Week 3 vs Week 4: p值 = 0.0183
+    Week 3 vs Week 5: p值 = 0.0098
+    Week 3 vs Week 6: p值 = 0.0039
+    Week 3 vs Week 7: p值 = 0.0506
+    Week 3 vs Week 8: p值 = 0.0273
+    Week 3 vs Week 9: p值 = 0.0005
+    Week 3 vs Week 10: p值 = 0.0055
+    Week 4 vs Week 5: p值 = 0.8383
+    Week 4 vs Week 6: p值 = 0.1113
+    Week 4 vs Week 7: p值 = 0.0545
+    Week 4 vs Week 8: p值 = 0.0312
+    Week 4 vs Week 9: p值 = 0.0007
+    Week 4 vs Week 10: p值 = 0.0070
+    Week 5 vs Week 6: p值 = 0.2510
+    Week 5 vs Week 7: p值 = 0.1139
+    Week 5 vs Week 8: p值 = 0.0360
+    Week 5 vs Week 9: p值 = 0.0040
+    Week 5 vs Week 10: p值 = 0.0091
+    Week 6 vs Week 7: p值 = 0.1388
+    Week 6 vs Week 8: p值 = 0.0360
+    Week 6 vs Week 9: p值 = 0.0070
+    Week 6 vs Week 10: p值 = 0.0091
+    Week 7 vs Week 8: p值 = 0.0426
+    Week 7 vs Week 9: p值 = 0.0451
+    Week 7 vs Week 10: p值 = 0.0121
+    Week 8 vs Week 9: p值 = 0.3290
+    Week 8 vs Week 10: p值 = 0.0238
+    Week 9 vs Week 10: p值 = 0.0357
+
+赛季 23 (周数: 11):
+  Kruskal-Wallis统计量: 53.0755
+  p值: 0.0000
+  一致性: 不通过
+  两两比较结果 (Pairwise comparison results):
+    Week 1 vs Week 2: p值 = 0.1510
+    Week 1 vs Week 3: p值 = 0.0276
+    Week 1 vs Week 4: p值 = 0.0054
+    Week 1 vs Week 5: p值 = 0.0001
+    Week 1 vs Week 6: p值 = 0.0027
+    Week 1 vs Week 7: p值 = 0.0034
+    Week 1 vs Week 8: p值 = 0.0085
+    Week 1 vs Week 9: p值 = 0.0220
+    Week 1 vs Week 10: p值 = 0.0593
+    Week 1 vs Week 11: p值 = 0.0008
+    Week 2 vs Week 3: p值 = 0.2888
+    Week 2 vs Week 4: p值 = 0.0127
+    Week 2 vs Week 5: p值 = 0.0001
+    Week 2 vs Week 6: p值 = 0.0021
+    Week 2 vs Week 7: p值 = 0.0025
+    Week 2 vs Week 8: p值 = 0.0085
+    Week 2 vs Week 9: p值 = 0.0167
+    Week 2 vs Week 10: p值 = 0.0460
+    Week 2 vs Week 11: p值 = 0.0008
+    Week 3 vs Week 4: p值 = 0.2549
+    Week 3 vs Week 5: p值 = 0.0003
+    Week 3 vs Week 6: p值 = 0.0032
+    Week 3 vs Week 7: p值 = 0.0041
+    Week 3 vs Week 8: p值 = 0.0098
+    Week 3 vs Week 9: p值 = 0.0245
+    Week 3 vs Week 10: p值 = 0.0637
+    Week 3 vs Week 11: p值 = 0.0011
+    Week 4 vs Week 5: p值 = 0.0018
+    Week 4 vs Week 6: p值 = 0.0078
+    Week 4 vs Week 7: p值 = 0.0068
+    Week 4 vs Week 8: p值 = 0.0114
+    Week 4 vs Week 9: p值 = 0.0273
+    Week 4 vs Week 10: p值 = 0.0687
+    Week 4 vs Week 11: p值 = 0.0015
+    Week 5 vs Week 6: p值 = 0.4799
+    Week 5 vs Week 7: p值 = 0.0206
+    Week 5 vs Week 8: p值 = 0.0164
+    Week 5 vs Week 9: p值 = 0.0360
+    Week 5 vs Week 10: p值 = 0.0829
+    Week 5 vs Week 11: p值 = 0.0028
+    Week 6 vs Week 7: p值 = 0.0592
+    Week 6 vs Week 8: p值 = 0.0164
+    Week 6 vs Week 9: p值 = 0.0360
+    Week 6 vs Week 10: p值 = 0.0829
+    Week 6 vs Week 11: p值 = 0.0028
+    Week 7 vs Week 8: p值 = 0.0721
+    Week 7 vs Week 9: p值 = 0.0426
+    Week 7 vs Week 10: p值 = 0.0932
+    Week 7 vs Week 11: p值 = 0.0040
+    Week 8 vs Week 9: p值 = 0.0350
+    Week 8 vs Week 10: p值 = 0.0732
+    Week 8 vs Week 11: p值 = 0.0061
+    Week 9 vs Week 10: p值 = 0.1255
+    Week 9 vs Week 11: p值 = 0.0095
+    Week 10 vs Week 11: p值 = 0.9048
+
+赛季 24 (周数: 10):
+  Kruskal-Wallis统计量: 40.0194
+  p值: 0.0000
+  一致性: 不通过
+  两两比较结果 (Pairwise comparison results):
+    Week 1 vs Week 2: p值 = 0.7950
+    Week 1 vs Week 3: p值 = 0.1316
+    Week 1 vs Week 4: p值 = 0.0092
+    Week 1 vs Week 5: p值 = 0.0032
+    Week 1 vs Week 6: p值 = 0.0041
+    Week 1 vs Week 7: p值 = 0.0130
+    Week 1 vs Week 8: p值 = 0.0006
+    Week 1 vs Week 9: p值 = 0.1703
+    Week 1 vs Week 10: p值 = 0.0044
+    Week 2 vs Week 3: p值 = 0.2071
+    Week 2 vs Week 4: p值 = 0.0076
+    Week 2 vs Week 5: p值 = 0.0032
+    Week 2 vs Week 6: p值 = 0.0041
+    Week 2 vs Week 7: p值 = 0.0358
+    Week 2 vs Week 8: p值 = 0.0003
+    Week 2 vs Week 9: p值 = 0.1703
+    Week 2 vs Week 10: p值 = 0.0044
+    Week 3 vs Week 4: p值 = 0.2178
+    Week 3 vs Week 5: p值 = 0.0049
+    Week 3 vs Week 6: p值 = 0.0050
+    Week 3 vs Week 7: p值 = 0.0693
+    Week 3 vs Week 8: p值 = 0.0055
+    Week 3 vs Week 9: p值 = 0.1773
+    Week 3 vs Week 10: p值 = 0.0055
+    Week 4 vs Week 5: p值 = 0.0200
+    Week 4 vs Week 6: p值 = 0.0062
+    Week 4 vs Week 7: p值 = 0.1088
+    Week 4 vs Week 8: p值 = 0.0127
+    Week 4 vs Week 9: p值 = 0.1878
+    Week 4 vs Week 10: p值 = 0.0070
+    Week 5 vs Week 6: p值 = 0.0206
+    Week 5 vs Week 7: p值 = 0.1142
+    Week 5 vs Week 8: p值 = 0.0599
+    Week 5 vs Week 9: p值 = 0.1483
+    Week 5 vs Week 10: p值 = 0.0091
+    Week 6 vs Week 7: p值 = 0.1206
+    Week 6 vs Week 8: p值 = 0.0653
+    Week 6 vs Week 9: p值 = 0.1535
+    Week 6 vs Week 10: p值 = 0.0121
+    Week 7 vs Week 8: p值 = 0.0480
+    Week 7 vs Week 9: p值 = 0.2303
+    Week 7 vs Week 10: p值 = 0.0167
+    Week 8 vs Week 9: p值 = 0.2857
+    Week 8 vs Week 10: p值 = 0.0357
+    Week 9 vs Week 10: p值 = 1.0000
+
+赛季 25 (周数: 10):
+  Kruskal-Wallis统计量: 41.0370
+  p值: 0.0000
+  一致性: 不通过
+  两两比较结果 (Pairwise comparison results):
+    Week 1 vs Week 2: p值 = 0.7196
+    Week 1 vs Week 3: p值 = 0.0321
+    Week 1 vs Week 4: p值 = 0.0205
+    Week 1 vs Week 5: p值 = 0.0048
+    Week 1 vs Week 6: p值 = 0.0050
+    Week 1 vs Week 7: p值 = 0.0018
+    Week 1 vs Week 8: p值 = 0.0220
+    Week 1 vs Week 9: p值 = 0.0593
+    Week 1 vs Week 10: p值 = 0.0008
+    Week 2 vs Week 3: p值 = 0.0637
+    Week 2 vs Week 4: p值 = 0.0277
+    Week 2 vs Week 5: p值 = 0.0048
+    Week 2 vs Week 6: p值 = 0.0050
+    Week 2 vs Week 7: p值 = 0.0018
+    Week 2 vs Week 8: p值 = 0.0220
+    Week 2 vs Week 9: p值 = 0.0593
+    Week 2 vs Week 10: p值 = 0.0008
+    Week 3 vs Week 4: p值 = 0.3246
+    Week 3 vs Week 5: p值 = 0.0378
+    Week 3 vs Week 6: p值 = 0.0334
+    Week 3 vs Week 7: p值 = 0.0328
+    Week 3 vs Week 8: p值 = 0.0273
+    Week 3 vs Week 9: p值 = 0.0687
+    Week 3 vs Week 10: p值 = 0.0015
+    Week 4 vs Week 5: p值 = 0.1697
+    Week 4 vs Week 6: p值 = 0.0682
+    Week 4 vs Week 7: p值 = 0.0409
+    Week 4 vs Week 8: p值 = 0.0202
+    Week 4 vs Week 9: p值 = 0.0517
+    Week 4 vs Week 10: p值 = 0.0015
+    Week 5 vs Week 6: p值 = 0.2703
+    Week 5 vs Week 7: p值 = 0.0676
+    Week 5 vs Week 8: p值 = 0.0312
+    Week 5 vs Week 9: p值 = 0.0753
+    Week 5 vs Week 10: p值 = 0.0020
+    Week 6 vs Week 7: p值 = 0.2766
+    Week 6 vs Week 8: p值 = 0.0360
+    Week 6 vs Week 9: p值 = 0.0829
+    Week 6 vs Week 10: p值 = 0.0028
+    Week 7 vs Week 8: p值 = 0.0426
+    Week 7 vs Week 9: p值 = 0.0932
+    Week 7 vs Week 10: p值 = 0.0040
+    Week 8 vs Week 9: p值 = 0.1775
+    Week 8 vs Week 10: p值 = 0.0381
+    Week 9 vs Week 10: p值 = 0.5556
+
+赛季 26 (周数: 4):
+  Kruskal-Wallis统计量: 19.4153
+  p值: 0.0002
+  一致性: 不通过
+  两两比较结果 (Pairwise comparison results):
+    Week 1 vs Week 2: p值 = 0.0062
+    Week 1 vs Week 3: p值 = 0.0002
+    Week 1 vs Week 4: p值 = 0.0070
+    Week 2 vs Week 3: p值 = 0.0426
+    Week 2 vs Week 4: p值 = 0.0121
+    Week 3 vs Week 4: p值 = 0.0238
+
+赛季 27 (周数: 9):
+  Kruskal-Wallis统计量: 39.3321
+  p值: 0.0000
+  一致性: 不通过
+  两两比较结果 (Pairwise comparison results):
+    Week 1 vs Week 2: p值 = 0.1654
+    Week 1 vs Week 3: p值 = 0.0077
+    Week 1 vs Week 4: p值 = 0.0070
+    Week 1 vs Week 5: p值 = 0.0021
+    Week 1 vs Week 6: p值 = 0.0027
+    Week 1 vs Week 7: p值 = 0.0126
+    Week 1 vs Week 8: p值 = 0.0125
+    Week 1 vs Week 9: p值 = 0.0008
+    Week 2 vs Week 3: p值 = 0.0605
+    Week 2 vs Week 4: p值 = 0.0378
+    Week 2 vs Week 5: p值 = 0.0095
+    Week 2 vs Week 6: p值 = 0.0032
+    Week 2 vs Week 7: p值 = 0.0314
+    Week 2 vs Week 8: p值 = 0.0182
+    Week 2 vs Week 9: p值 = 0.0011
+    Week 3 vs Week 4: p值 = 0.1489
+    Week 3 vs Week 5: p值 = 0.0575
+    Week 3 vs Week 6: p值 = 0.0030
+    Week 3 vs Week 7: p值 = 0.0506
+    Week 3 vs Week 8: p值 = 0.0202
+    Week 3 vs Week 9: p值 = 0.0015
+    Week 4 vs Week 5: p值 = 0.7133
+    Week 4 vs Week 6: p值 = 0.1309
+    Week 4 vs Week 7: p值 = 0.1457
+    Week 4 vs Week 8: p值 = 0.0312
+    Week 4 vs Week 9: p值 = 0.0020
+    Week 5 vs Week 6: p值 = 0.2893
+    Week 5 vs Week 7: p值 = 0.2359
+    Week 5 vs Week 8: p值 = 0.0496
+    Week 5 vs Week 9: p值 = 0.0028
+    Week 6 vs Week 7: p值 = 0.4234
+    Week 6 vs Week 8: p值 = 0.0360
+    Week 6 vs Week 9: p值 = 0.0028
+    Week 7 vs Week 8: p值 = 0.1419
+    Week 7 vs Week 9: p值 = 0.0040
+    Week 8 vs Week 9: p值 = 0.0095
+
+赛季 28 (周数: 11):
+  Kruskal-Wallis统计量: 47.1971
+  p值: 0.0000
+  一致性: 不通过
+  两两比较结果 (Pairwise comparison results):
+    Week 1 vs Week 2: p值 = 0.4025
+    Week 1 vs Week 3: p值 = 0.0602
+    Week 1 vs Week 4: p值 = 0.0229
+    Week 1 vs Week 5: p值 = 0.0012
+    Week 1 vs Week 6: p值 = 0.0001
+    Week 1 vs Week 7: p值 = 0.2380
+    Week 1 vs Week 8: p值 = 0.1422
+    Week 1 vs Week 9: p值 = 0.0001
+    Week 1 vs Week 10: p值 = 0.0003
+    Week 1 vs Week 11: p值 = 0.0011
+    Week 2 vs Week 3: p值 = 0.0927
+    Week 2 vs Week 4: p值 = 0.0806
+    Week 2 vs Week 5: p值 = 0.0062
+    Week 2 vs Week 6: p值 = 0.0010
+    Week 2 vs Week 7: p值 = 0.2380
+    Week 2 vs Week 8: p值 = 0.1422
+    Week 2 vs Week 9: p值 = 0.0001
+    Week 2 vs Week 10: p值 = 0.0003
+    Week 2 vs Week 11: p值 = 0.0011
+    Week 3 vs Week 4: p值 = 0.6776
+    Week 3 vs Week 5: p值 = 0.2364
+    Week 3 vs Week 6: p值 = 0.4631
+    Week 3 vs Week 7: p值 = 0.2743
+    Week 3 vs Week 8: p值 = 0.1613
+    Week 3 vs Week 9: p值 = 0.0017
+    Week 3 vs Week 10: p值 = 0.0007
+    Week 3 vs Week 11: p值 = 0.0020
+    Week 4 vs Week 5: p值 = 0.0792
+    Week 4 vs Week 6: p值 = 0.1309
+    Week 4 vs Week 7: p值 = 0.2743
+    Week 4 vs Week 8: p值 = 0.1613
+    Week 4 vs Week 9: p值 = 0.0002
+    Week 4 vs Week 10: p值 = 0.0007
+    Week 4 vs Week 11: p值 = 0.0020
+    Week 5 vs Week 6: p值 = 0.7059
+    Week 5 vs Week 7: p值 = 0.4234
+    Week 5 vs Week 8: p值 = 0.1738
+    Week 5 vs Week 9: p值 = 0.0028
+    Week 5 vs Week 10: p值 = 0.0010
+    Week 5 vs Week 11: p值 = 0.0028
+    Week 6 vs Week 7: p值 = 0.3758
+    Week 6 vs Week 8: p值 = 0.1294
+    Week 6 vs Week 9: p值 = 0.0004
+    Week 6 vs Week 10: p值 = 0.0006
+    Week 6 vs Week 11: p值 = 0.0010
+    Week 7 vs Week 8: p值 = 0.3969
+    Week 7 vs Week 9: p值 = 0.2284
+    Week 7 vs Week 10: p值 = 0.0109
+    Week 7 vs Week 11: p值 = 0.0040
+    Week 8 vs Week 9: p值 = 0.6282
+    Week 8 vs Week 10: p值 = 1.0000
+    Week 8 vs Week 11: p值 = 0.0061
+    Week 9 vs Week 10: p值 = 0.0087
+    Week 9 vs Week 11: p值 = 0.0095
+    Week 10 vs Week 11: p值 = 0.0159
+
+赛季 29 (周数: 11):
+  Kruskal-Wallis统计量: 66.4806
+  p值: 0.0000
+  一致性: 不通过
+  两两比较结果 (Pairwise comparison results):
+    Week 1 vs Week 2: p值 = 0.6783
+    Week 1 vs Week 3: p值 = 0.2301
+    Week 1 vs Week 4: p值 = 0.0213
+    Week 1 vs Week 5: p值 = 0.0012
+    Week 1 vs Week 6: p值 = 0.0095
+    Week 1 vs Week 7: p值 = 0.0010
+    Week 1 vs Week 8: p值 = 0.0025
+    Week 1 vs Week 9: p值 = 0.0038
+    Week 1 vs Week 10: p值 = 0.0000
+    Week 1 vs Week 11: p值 = 0.0005
+    Week 2 vs Week 3: p值 = 0.0471
+    Week 2 vs Week 4: p值 = 0.0024
+    Week 2 vs Week 5: p值 = 0.0002
+    Week 2 vs Week 6: p值 = 0.0070
+    Week 2 vs Week 7: p值 = 0.0010
+    Week 2 vs Week 8: p值 = 0.0025
+    Week 2 vs Week 9: p值 = 0.0066
+    Week 2 vs Week 10: p值 = 0.0000
+    Week 2 vs Week 11: p值 = 0.0005
+    Week 3 vs Week 4: p值 = 0.1389
+    Week 3 vs Week 5: p值 = 0.0069
+    Week 3 vs Week 6: p值 = 0.0093
+    Week 3 vs Week 7: p值 = 0.0014
+    Week 3 vs Week 8: p值 = 0.0029
+    Week 3 vs Week 9: p值 = 0.0056
+    Week 3 vs Week 10: p值 = 0.0001
+    Week 3 vs Week 11: p值 = 0.0007
+    Week 4 vs Week 5: p值 = 0.1086
+    Week 4 vs Week 6: p值 = 0.0127
+    Week 4 vs Week 7: p值 = 0.0021
+    Week 4 vs Week 8: p值 = 0.0034
+    Week 4 vs Week 9: p值 = 0.0085
+    Week 4 vs Week 10: p值 = 0.0001
+    Week 4 vs Week 11: p值 = 0.0008
+    Week 5 vs Week 6: p值 = 0.0455
+    Week 5 vs Week 7: p值 = 0.0092
+    Week 5 vs Week 8: p值 = 0.0041
+    Week 5 vs Week 9: p值 = 0.0098
+    Week 5 vs Week 10: p值 = 0.0001
+    Week 5 vs Week 11: p值 = 0.0011
+    Week 6 vs Week 7: p值 = 0.6985
+    Week 6 vs Week 8: p值 = 0.0050
+    Week 6 vs Week 9: p值 = 0.0059
+    Week 6 vs Week 10: p值 = 0.0002
+    Week 6 vs Week 11: p值 = 0.0015
+    Week 7 vs Week 8: p值 = 0.0062
+    Week 7 vs Week 9: p值 = 0.0097
+    Week 7 vs Week 10: p值 = 0.0002
+    Week 7 vs Week 11: p值 = 0.0020
+    Week 8 vs Week 9: p值 = 0.1520
+    Week 8 vs Week 10: p值 = 0.0813
+    Week 8 vs Week 11: p值 = 0.0040
+    Week 9 vs Week 10: p值 = 0.5338
+    Week 9 vs Week 11: p值 = 0.0061
+    Week 10 vs Week 11: p值 = 0.0095
+
+赛季 30 (周数: 10):
+  Kruskal-Wallis统计量: 69.9041
+  p值: 0.0000
+  一致性: 不通过
+  两两比较结果 (Pairwise comparison results):
+    Week 1 vs Week 2: p值 = 0.9669
+    Week 1 vs Week 3: p值 = 0.1692
+    Week 1 vs Week 4: p值 = 0.0146
+    Week 1 vs Week 5: p值 = 0.0095
+    Week 1 vs Week 6: p值 = 0.0000
+    Week 1 vs Week 7: p值 = 0.0001
+    Week 1 vs Week 8: p值 = 0.0000
+    Week 1 vs Week 9: p值 = 0.0003
+    Week 1 vs Week 10: p值 = 0.0005
+    Week 2 vs Week 3: p值 = 0.1321
+    Week 2 vs Week 4: p值 = 0.0129
+    Week 2 vs Week 5: p值 = 0.0110
+    Week 2 vs Week 6: p值 = 0.0001
+    Week 2 vs Week 7: p值 = 0.0001
+    Week 2 vs Week 8: p值 = 0.0000
+    Week 2 vs Week 9: p值 = 0.0001
+    Week 2 vs Week 10: p值 = 0.0005
+    Week 3 vs Week 4: p值 = 0.4520
+    Week 3 vs Week 5: p值 = 0.1322
+    Week 3 vs Week 6: p值 = 0.0005
+    Week 3 vs Week 7: p值 = 0.0002
+    Week 3 vs Week 8: p值 = 0.0000
+    Week 3 vs Week 9: p值 = 0.0010
+    Week 3 vs Week 10: p值 = 0.0007
+    Week 4 vs Week 5: p值 = 0.2237
+    Week 4 vs Week 6: p值 = 0.0002
+    Week 4 vs Week 7: p值 = 0.0001
+    Week 4 vs Week 8: p值 = 0.0000
+    Week 4 vs Week 9: p值 = 0.0047
+    Week 4 vs Week 10: p值 = 0.0008
+    Week 5 vs Week 6: p值 = 0.2453
+    Week 5 vs Week 7: p值 = 0.1106
+    Week 5 vs Week 8: p值 = 0.0908
+    Week 5 vs Week 9: p值 = 0.0071
+    Week 5 vs Week 10: p值 = 0.0015
+    Week 6 vs Week 7: p值 = 0.0305
+    Week 6 vs Week 8: p值 = 0.0005
+    Week 6 vs Week 9: p值 = 0.0312
+    Week 6 vs Week 10: p值 = 0.0020
+    Week 7 vs Week 8: p值 = 0.0360
+    Week 7 vs Week 9: p值 = 0.0360
+    Week 7 vs Week 10: p值 = 0.0028
+    Week 8 vs Week 9: p值 = 0.0426
+    Week 8 vs Week 10: p值 = 0.0040
+    Week 9 vs Week 10: p值 = 0.0095
+
+赛季 31 (周数: 10):
+  Kruskal-Wallis统计量: 72.9129
+  p值: 0.0000
+  一致性: 不通过
+  两两比较结果 (Pairwise comparison results):
+    Week 1 vs Week 2: p值 = 0.2949
+    Week 1 vs Week 3: p值 = 0.0235
+    Week 1 vs Week 4: p值 = 0.0149
+    Week 1 vs Week 5: p值 = 0.0008
+    Week 1 vs Week 6: p值 = 0.0002
+    Week 1 vs Week 7: p值 = 0.0017
+    Week 1 vs Week 8: p值 = 0.0000
+    Week 1 vs Week 9: p值 = 0.0000
+    Week 1 vs Week 10: p值 = 0.0004
+    Week 2 vs Week 3: p值 = 0.1213
+    Week 2 vs Week 4: p值 = 0.0476
+    Week 2 vs Week 5: p值 = 0.0005
+    Week 2 vs Week 6: p值 = 0.0008
+    Week 2 vs Week 7: p值 = 0.0019
+    Week 2 vs Week 8: p值 = 0.0000
+    Week 2 vs Week 9: p值 = 0.0000
+    Week 2 vs Week 10: p值 = 0.0005
+    Week 3 vs Week 4: p值 = 0.6104
+    Week 3 vs Week 5: p值 = 0.0069
+    Week 3 vs Week 6: p值 = 0.0008
+    Week 3 vs Week 7: p值 = 0.0022
+    Week 3 vs Week 8: p值 = 0.0000
+    Week 3 vs Week 9: p值 = 0.0001
+    Week 3 vs Week 10: p值 = 0.0007
+    Week 4 vs Week 5: p值 = 0.0180
+    Week 4 vs Week 6: p值 = 0.0009
+    Week 4 vs Week 7: p值 = 0.0027
+    Week 4 vs Week 8: p值 = 0.0000
+    Week 4 vs Week 9: p值 = 0.0001
+    Week 4 vs Week 10: p值 = 0.0008
+    Week 5 vs Week 6: p值 = 0.0192
+    Week 5 vs Week 7: p值 = 0.0025
+    Week 5 vs Week 8: p值 = 0.0005
+    Week 5 vs Week 9: p值 = 0.0001
+    Week 5 vs Week 10: p值 = 0.0011
+    Week 6 vs Week 7: p值 = 0.0080
+    Week 6 vs Week 8: p值 = 0.0044
+    Week 6 vs Week 9: p值 = 0.0002
+    Week 6 vs Week 10: p值 = 0.0020
+    Week 7 vs Week 8: p值 = 0.4234
+    Week 7 vs Week 9: p值 = 0.0004
+    Week 7 vs Week 10: p值 = 0.0028
+    Week 8 vs Week 9: p值 = 0.0007
+    Week 8 vs Week 10: p值 = 0.0040
+    Week 9 vs Week 10: p值 = 0.0095
+
+赛季 32 (周数: 11):
+  Kruskal-Wallis统计量: 48.7671
+  p值: 0.0000
+  一致性: 不通过
+  两两比较结果 (Pairwise comparison results):
+    Week 1 vs Week 2: p值 = 0.5200
+    Week 1 vs Week 3: p值 = 0.1292
+    Week 1 vs Week 4: p值 = 0.0128
+    Week 1 vs Week 5: p值 = 0.0207
+    Week 1 vs Week 6: p值 = 0.0022
+    Week 1 vs Week 7: p值 = 0.1876
+    Week 1 vs Week 8: p值 = 0.0938
+    Week 1 vs Week 9: p值 = 0.0001
+    Week 1 vs Week 10: p值 = 0.0002
+    Week 1 vs Week 11: p值 = 0.0002
+    Week 2 vs Week 3: p值 = 0.1347
+    Week 2 vs Week 4: p值 = 0.0000
+    Week 2 vs Week 5: p值 = 0.0084
+    Week 2 vs Week 6: p值 = 0.0007
+    Week 2 vs Week 7: p值 = 0.3002
+    Week 2 vs Week 8: p值 = 0.0773
+    Week 2 vs Week 9: p值 = 0.0000
+    Week 2 vs Week 10: p值 = 0.0001
+    Week 2 vs Week 11: p值 = 0.0001
+    Week 3 vs Week 4: p值 = 0.1610
+    Week 3 vs Week 5: p值 = 0.0698
+    Week 3 vs Week 6: p值 = 0.0252
+    Week 3 vs Week 7: p值 = 0.6239
+    Week 3 vs Week 8: p值 = 0.1422
+    Week 3 vs Week 9: p值 = 0.0004
+    Week 3 vs Week 10: p值 = 0.0003
+    Week 3 vs Week 11: p值 = 0.0003
+    Week 4 vs Week 5: p值 = 0.0134
+    Week 4 vs Week 6: p值 = 0.0016
+    Week 4 vs Week 7: p值 = 0.3345
+    Week 4 vs Week 8: p值 = 0.0993
+    Week 4 vs Week 9: p值 = 0.0001
+    Week 4 vs Week 10: p值 = 0.0002
+    Week 4 vs Week 11: p值 = 0.0002
+    Week 5 vs Week 6: p值 = 1.0000
+    Week 5 vs Week 7: p值 = 0.7618
+    Week 5 vs Week 8: p值 = 0.0878
+    Week 5 vs Week 9: p值 = 0.0075
+    Week 5 vs Week 10: p值 = 0.0007
+    Week 5 vs Week 11: p值 = 0.0007
+    Week 6 vs Week 7: p值 = 0.4807
+    Week 6 vs Week 8: p值 = 0.1738
+    Week 6 vs Week 9: p值 = 0.0256
+    Week 6 vs Week 10: p值 = 0.0020
+    Week 6 vs Week 11: p值 = 0.0010
+    Week 7 vs Week 8: p值 = 0.7789
+    Week 7 vs Week 9: p值 = 0.1812
+    Week 7 vs Week 10: p值 = 0.1709
+    Week 7 vs Week 11: p值 = 0.1709
+    Week 8 vs Week 9: p值 = 0.9452
+    Week 8 vs Week 10: p值 = 0.5303
+    Week 8 vs Week 11: p值 = 0.5303
+    Week 9 vs Week 10: p值 = 0.0173
+    Week 9 vs Week 11: p值 = 0.0173
+    Week 10 vs Week 11: p值 = 0.8413
+
+赛季 33 (周数: 9):
+  Kruskal-Wallis统计量: 43.5510
+  p值: 0.0000
+  一致性: 不通过
+  两两比较结果 (Pairwise comparison results):
+    Week 1 vs Week 2: p值 = 0.5383
+    Week 1 vs Week 3: p值 = 0.0127
+    Week 1 vs Week 4: p值 = 0.0326
+    Week 1 vs Week 5: p值 = 0.0004
+    Week 1 vs Week 6: p值 = 0.1574
+    Week 1 vs Week 7: p值 = 0.0001
+    Week 1 vs Week 8: p值 = 0.0002
+    Week 1 vs Week 9: p值 = 0.0002
+    Week 2 vs Week 3: p值 = 0.0489
+    Week 2 vs Week 4: p值 = 0.0950
+    Week 2 vs Week 5: p值 = 0.0007
+    Week 2 vs Week 6: p值 = 0.2414
+    Week 2 vs Week 7: p值 = 0.0001
+    Week 2 vs Week 8: p值 = 0.0002
+    Week 2 vs Week 9: p值 = 0.0002
+    Week 3 vs Week 4: p值 = 0.8792
+    Week 3 vs Week 5: p值 = 0.0025
+    Week 3 vs Week 6: p值 = 0.5962
+    Week 3 vs Week 7: p值 = 0.0002
+    Week 3 vs Week 8: p值 = 0.0005
+    Week 3 vs Week 9: p值 = 0.0005
+    Week 4 vs Week 5: p值 = 0.5414
+    Week 4 vs Week 6: p值 = 0.8371
+    Week 4 vs Week 7: p值 = 0.1135
+    Week 4 vs Week 8: p值 = 0.0120
+    Week 4 vs Week 9: p值 = 0.0120
+    Week 5 vs Week 6: p值 = 0.8665
+    Week 5 vs Week 7: p值 = 0.0013
+    Week 5 vs Week 8: p值 = 0.0016
+    Week 5 vs Week 9: p值 = 0.0016
+    Week 6 vs Week 7: p值 = 0.7308
+    Week 6 vs Week 8: p值 = 0.0732
+    Week 6 vs Week 9: p值 = 0.0480
+    Week 7 vs Week 8: p值 = 0.0043
+    Week 7 vs Week 9: p值 = 0.0043
+    Week 8 vs Week 9: p值 = 1.0000
+
+赛季 34 (周数: 11):
+  Kruskal-Wallis统计量: 54.7913
+  p值: 0.0000
+  一致性: 不通过
+  两两比较结果 (Pairwise comparison results):
+    Week 1 vs Week 2: p值 = 0.9085
+    Week 1 vs Week 3: p值 = 0.0026
+    Week 1 vs Week 4: p值 = 0.0401
+    Week 1 vs Week 5: p值 = 0.0002
+    Week 1 vs Week 6: p值 = 0.0012
+    Week 1 vs Week 7: p值 = 0.1966
+    Week 1 vs Week 8: p值 = 0.0029
+    Week 1 vs Week 9: p值 = 0.0000
+    Week 1 vs Week 10: p值 = 0.0200
+    Week 1 vs Week 11: p值 = 0.0002
+    Week 2 vs Week 3: p值 = 0.0004
+    Week 2 vs Week 4: p值 = 0.0457
+    Week 2 vs Week 5: p值 = 0.0001
+    Week 2 vs Week 6: p值 = 0.0012
+    Week 2 vs Week 7: p值 = 0.1966
+    Week 2 vs Week 8: p值 = 0.0029
+    Week 2 vs Week 9: p值 = 0.0000
+    Week 2 vs Week 10: p值 = 0.0200
+    Week 2 vs Week 11: p值 = 0.0002
+    Week 3 vs Week 4: p值 = 0.7818
+    Week 3 vs Week 5: p值 = 0.0033
+    Week 3 vs Week 6: p值 = 0.0014
+    Week 3 vs Week 7: p值 = 0.2136
+    Week 3 vs Week 8: p值 = 0.0041
+    Week 3 vs Week 9: p值 = 0.0000
+    Week 3 vs Week 10: p值 = 0.0245
+    Week 3 vs Week 11: p值 = 0.0003
+    Week 4 vs Week 5: p值 = 0.6985
+    Week 4 vs Week 6: p值 = 0.5974
+    Week 4 vs Week 7: p值 = 0.2241
+    Week 4 vs Week 8: p值 = 0.0203
+    Week 4 vs Week 9: p值 = 0.0028
+    Week 4 vs Week 10: p值 = 0.0273
+    Week 4 vs Week 11: p值 = 0.0005
+    Week 5 vs Week 6: p值 = 0.2730
+    Week 5 vs Week 7: p值 = 0.2364
+    Week 5 vs Week 8: p值 = 0.0062
+    Week 5 vs Week 9: p值 = 0.0004
+    Week 5 vs Week 10: p值 = 0.0312
+    Week 5 vs Week 11: p值 = 0.0007
+    Week 6 vs Week 7: p值 = 0.2364
+    Week 6 vs Week 8: p值 = 0.0062
+    Week 6 vs Week 9: p值 = 0.0020
+    Week 6 vs Week 10: p值 = 0.0312
+    Week 6 vs Week 11: p值 = 0.0007
+    Week 7 vs Week 8: p值 = 0.6058
+    Week 7 vs Week 9: p值 = 1.0000
+    Week 7 vs Week 10: p值 = 0.0663
+    Week 7 vs Week 11: p值 = 0.0120
+    Week 8 vs Week 9: p值 = 0.7789
+    Week 8 vs Week 10: p值 = 0.0293
+    Week 8 vs Week 11: p值 = 0.0016
+    Week 9 vs Week 10: p值 = 0.0734
+    Week 9 vs Week 11: p值 = 0.0051
+    Week 10 vs Week 11: p值 = 0.4286
+

@@ -1,0 +1,422 @@
+celebrity_name,season,celebrity_age_during_season,celebrity_homecountry/region,celebrity_industry,placement,avg_vote_share,avg_judge_score
+John O'Hurley,1,50,United States,Actor/Actress,2,0.36133499999999996,8.055555666666667
+Kelly Monaco,1,29,United States,Actor/Actress,1,0.22077266666666664,7.111111166666667
+Evander Holyfield,1,42,United States,Athlete,5,0.18433633333333332,5.0
+Rachel Hunter,1,35,New Zealand,Model,4,0.158531,7.91666675
+Joey McIntyre,1,32,United States,Singer/Rapper,3,0.22865000000000002,7.033333400000001
+Trista Sutter,1,32,United States,TV Personality,6,0.088487,6.1666665
+Tatum O'Neal,2,42,United States,Actor/Actress,9,0.0581445,6.666667
+Tia Carrere,2,39,United States,Actor/Actress,6,0.13407580000000002,7.666666599999999
+George Hamilton,2,66,United States,Actor/Actress,5,0.143088,7.222222166666666
+Lisa Rinna,2,42,United States,Actor/Actress,4,0.12772942857142858,8.023809428571429
+Stacy Keibler,2,26,United States,Athlete,3,0.209792125,9.17360425
+Jerry Rice,2,43,United States,Athlete,2,0.18050275,7.50694175
+Giselle Fernandez,2,44,Mexico,News Anchor,8,0.06843666666666667,7.666666666666667
+Master P,2,35,United States,Singer/Rapper,7,0.09040625000000001,4.16666675
+Drew Lachey,2,29,United States,Singer/Rapper,1,0.20892525,9.145825
+Kenny Mayne,2,46,United States,Sports Broadcaster,10,0.1,4.333333
+Harry Hamlin,3,54,United States,Actor/Actress,9,0.06960866666666667,6.666666666666667
+Vivica A. Fox,3,42,United States,Actor/Actress,8,0.08897125,8.083333249999999
+Monique Coleman,3,25,United States,Actor/Actress,4,0.152831875,8.3125
+Joey Lawrence,3,30,United States,Actor/Actress,3,0.1719391111111111,8.629629555555555
+Mario Lopez,3,32,United States,Actor/Actress,2,0.23858959999999999,8.9555533
+Emmitt Smith,3,37,United States,Athlete,1,0.23149440000000002,8.588886599999999
+Shanna Moakler,3,31,United States,Model,10,0.0454375,6.6666665
+Willa Ford,3,25,United States,Singer/Rapper,7,0.1206002,8.1333332
+Sara Evans,3,35,United States,Singer/Rapper,6,0.1031202,7.0
+Jerry Springer,3,62,England,TV Personality,5,0.10450085714285715,6.809523714285715
+Tucker Carlson,3,37,United States,TV Personality,11,0.023359,4.0
+John Ratzenberger,4,59,United States,Actor/Actress,6,0.09686271428571429,6.357142857142857
+Ian Ziering,4,42,United States,Actor/Actress,4,0.14418655555555557,8.092592555555555
+Clyde Drexler,4,44,United States,Athlete,8,0.086759,5.1999998
+Laila Ali,4,29,United States,Athlete,3,0.18544460000000001,8.7444399
+Apolo Anton Ohno,4,24,United States,Athlete,1,0.1871061,8.9611067
+Shandi Finnessey,4,28,United States,Beauty Pagent,10,0.068937,6.666666666666667
+Paulina Porizkova,4,41,Czechoslovakia,Model,11,0.038967,6.6666665
+Heather Mills,4,39,England,Model,7,0.07595833333333334,7.388889
+Billy Ray Cyrus,4,45,United States,Singer/Rapper,5,0.118345875,6.33333325
+Joey Fatone,4,30,United States,Singer/Rapper,2,0.18954949999999998,8.9222166
+Leeza Gibbons,4,50,United States,TV Personality,9,0.07055675,6.33333325
+Cameron Mathison,5,38,Canada,Actor/Actress,5,0.12181449999999999,8.083333375
+Jane Seymour,5,56,England,Actor/Actress,6,0.10775757142857142,8.142857142857142
+Sabrina Bryan,5,23,United States,Actor/Actress,7,0.11541583333333333,9.0
+Jennie Garth,5,35,United States,Actor/Actress,4,0.13938655555555554,8.425925888888889
+Floyd Mayweather Jr. ,5,30,United States,Athlete,9,0.07162375,6.91666675
+Josie Maran,5,29,United States,Model,12,0.019466,5.333333
+Albert Reed,5,22,United States,Model,11,0.046867,7.0
+Helio Castroneves,5,32,Brazil,Racing Driver,1,0.1586512,8.883329999999999
+Mel B,5,32,England,Singer/Rapper,2,0.16671529999999998,9.0777734
+Wayne Newton,5,65,United States,Singer/Rapper,10,0.06758033333333334,5.777777666666666
+Marie Osmond,5,47,United States,Singer/Rapper,3,0.2022616,8.0833335
+Mark Cuban,5,49,United States,TV Personality,8,0.08909819999999999,6.8
+Cristian de la Fuente,6,34,Chile,Actor/Actress,3,0.1521631,8.2500001
+Steve Guttenberg,6,49,United States,Actor/Actress,10,0.05127399999999999,6.111111
+Priscilla Presley,6,62,United States,Actor/Actress,8,0.0873472,7.6
+Marlee Matlin,6,42,United States,Actor/Actress,7,0.1019905,7.444444333333333
+Shannon Elizabeth,6,34,United States,Actor/Actress,6,0.10306857142857143,8.071428571428571
+Marissa Jaret Winokur,6,35,United States,Actor/Actress,4,0.1328247777777778,7.740740777777778
+Jason Taylor,6,33,United States,Athlete,2,0.1924939,8.7166668
+Kristi Yamaguchi,6,36,United States,Athlete,1,0.1969884,9.4000001
+Monica Seles,6,34,Yugoslavia,Athlete,11,0.040649000000000005,5.0
+Penn Jillette,6,53,United States,Magician,12,0.056191000000000005,5.5
+Adam Carolla,6,43,United States,Radio Personality,9,0.07190099999999999,6.1666665
+Mario,6,21,United States,Singer/Rapper,5,0.12285750000000001,8.416666625
+Ted McGinley,7,50,United States,Actor/Actress,12,0.060351,6.166667
+Cloris Leachman,7,82,United States,Actor/Actress,7,0.092821,5.833333166666667
+Susan Lucci,7,61,United States,Actor/Actress,6,0.100025,7.309523857142858
+Cody Linley,7,18,United States,Actor/Actress,4,0.1457891111111111,7.611111111111111
+Misty May-Treanor,7,31,United States,Athlete,10,0.0770505,7.0
+Maurice Greene,7,34,United States,Athlete,5,0.120666625,7.4791666249999995
+Warren Sapp,7,35,United States,Athlete,2,0.1756146,8.0833333
+Jeffrey Ross,7,43,United States,Comedian,13,0.024477,4.0
+Toni Braxton,7,40,United States,Singer/Rapper,8,0.0855532,7.4333332
+Lance Bass,7,29,United States,Singer/Rapper,3,0.1798139,8.1166667
+Kim Kardashian,7,27,United States,TV Personality,11,0.0541135,5.916667
+Rocco DiSpirito,7,41,United States,TV Personality,9,0.07552,5.95833325
+Brooke Burke,7,37,United States,TV Personality,1,0.1834177,8.9833335
+Gilles Marini,8,33,France,Actor/Actress,2,0.15293063636363635,9.227272818181818
+Denise Richards,8,38,United States,Actor/Actress,12,0.054877666666666665,6.111111
+David Alan Grier,8,52,United States,Actor/Actress,9,0.07530780000000001,6.9333332
+Lawrence Taylor,8,50,United States,Athlete,7,0.09181557142857143,6.571428571428571
+Ty Murray,8,39,United States,Athlete,4,0.1374723,7.2666668
+Shawn Johnson,8,17,United States,Athlete,1,0.17909063636363637,8.818181818181818
+Steve Wozniak,8,58,United States,Entrepreneur,10,0.056613,4.33333325
+Belinda Carlisle,8,50,United States,Singer/Rapper,13,0.037812000000000005,5.8333335
+Chuck Wicks,8,29,United States,Singer/Rapper,6,0.0984365,7.6458335
+Lil' Kim,8,34,United States,Singer/Rapper,5,0.11960211111111112,8.518518555555556
+Steve-O,8,34,England,TV Personality,8,0.06005033333333334,5.277777833333333
+Holly Madison,8,30,United States,TV Personality,11,0.07082,5.75
+Melissa Rycroft,8,26,United States,TV Personality,3,0.17996272727272727,8.893939545454545
+Ashley Hamiliton,9,34,United States,Actor/Actress,16,0.030402,6.3333
+Debi Mazar,9,45,United States,Actor/Actress,12,0.06057166666666667,6.666666666666667
+Melissa Joan Hart,9,33,United States,Actor/Actress,9,0.08461966666666666,7.6111055
+Mark Dacascos,9,45,United States,Actor/Actress,6,0.09922057142857144,8.071419142857144
+Chuck Liddell,9,39,United States,Athlete,11,0.051687500000000004,6.25
+Natalie Coughlin,9,27,United States,Athlete,10,0.0723502,7.9999866
+Louie Vito,9,21,United States,Athlete,8,0.0808705,7.111099833333333
+Michael Irvin,9,43,United States,Athlete,7,0.09275114285714285,6.452371428571429
+Joanna Krupa,9,30,Poland,Model,4,0.09596466666666666,9.018511333333333
+Kathy Ireland,9,46,United States,Model,14,0.02726,6.3333165000000005
+Tom DeLay,9,62,United States,Politician,13,0.05283466666666667,5.888877666666667
+Macy Gray,9,42,United States,Singer/Rapper,15,0.029562,6.3333
+Aaron Carter,9,21,United States,Singer/Rapper,5,0.097805875,8.604154
+Mya,9,29,United States,Singer/Rapper,2,0.1809473,9.477766599999999
+Donny Osmond,9,51,United States,Singer/Rapper,1,0.1835428,8.822206699999999
+Kelly Osbourne,9,24,England,TV Personality,3,0.1349023,8.157386800000001
+Aiden Turner,10,32,England,Actor/Actress,9,0.06968099999999999,5.875
+Shannen Doherty,10,38,United States,Actor/Actress,11,0.046809500000000004,6.3333335
+Niecy Nash,10,40,United States,Actor/Actress,5,0.1211665,6.99999175
+Buzz Aldrin,10,80,United States,Astronaut,10,0.05995433333333333,4.333333333333333
+Chad Ochocinco,10,32,United States,Athlete,4,0.1364587777777778,7.388885222222222
+Evan Lysacek,10,24,United States,Athlete,2,0.1847969,8.7629567
+Pamela Anderson,10,42,Canada,Model,6,0.096874,7.809514142857142
+Nicole Scherzinger,10,31,United States,Singer/Rapper,1,0.19750649999999997,9.3592533
+Erin Andrews,10,32,United States,Sports Broadcaster,3,0.1722194,8.316659900000001
+Kate Gosselin,10,35,United States,TV Personality,8,0.078848,5.1333332
+Jake Pavelka,10,32,United States,TV Personality,7,0.1054585,7.111105666666667
+David Hasselhoff,11,58,United States,Actor/Actress,12,0.005907,5.0
+Florence Henderson,11,76,United States,Actor/Actress,8,0.07781099999999999,6.3666666
+Kyle Massey,11,19,United States,Actor/Actress,2,0.186018,8.2486035
+Jennifer Grey,11,50,United States,Actor/Actress,1,0.1952182,8.9958333
+Rick Fox,11,41,Canada,Athlete,6,0.10079371428571428,7.922618999999999
+Kurt Warner,11,39,United States,Athlete,5,0.110329,7.343745875
+Margaret Cho,11,41,United States,Comedian,10,0.06585200000000001,5.666666666666667
+Michael Bolton,11,57,United States,Singer/Rapper,11,0.047980999999999996,4.6666665
+Brandy,11,31,United States,Singer/Rapper,4,0.13665055555555555,8.86573711111111
+The Situation,11,28,United States,TV Personality,9,0.07455225,5.5833335
+Audrina Patridge,11,25,United States,TV Personality,7,0.09818183333333334,8.111100166666667
+Bristol Palin,11,19,United States,TV Personality,3,0.17938179999999998,7.3680465
+Ralph Macchio,12,49,United States,Actor/Actress,4,0.15407044444444443,7.731481444444444
+Chelsea Kane,12,22,United States,Actor/Actress,3,0.19412449999999998,8.6555535
+Kirstie Alley,12,60,United States,Actor/Actress,2,0.18257240000000002,7.9666634
+Hines Ward,12,35,South Korea,Athlete,1,0.153168,8.64722
+Sugar Ray Leonard,12,54,United States,Athlete,9,0.07102375,6.25000025
+Chris Jericho,12,40,United States,Athlete,7,0.11020183333333333,7.4444445
+Petra Nemcova,12,31,Czechoslovakia,Model,8,0.0782868,7.0666666
+Mike Catherwood,12,32,United States,Radio Personality,11,0.0340945,5.0
+Romeo,12,21,United States,Singer/Rapper,5,0.12316287499999999,7.812500125
+Wendy Williams,12,46,United States,TV Personality,10,0.06385533333333333,5.111111333333334
+Kendra Wilkinson,12,25,United States,TV Personality,6,0.10470242857142857,7.041666571428571
+Elisabetta Canalis,13,33,Italy,Actor/Actress,11,0.031811,6.0
+David Arquette,13,40,United States,Actor/Actress,6,0.10267071428571428,7.357142857142857
+Ricki Lake,13,42,United States,Actor/Actress,3,0.1863176,8.8666601
+J.R. Martinez,13,28,United States,Actor/Actress,1,0.1836843,8.7722166
+Metta World Peace (Ron),13,31,United States,Athlete,12,0.005591,4.666667
+Hope Solo,13,30,United States,Athlete,4,0.13916366666666666,7.685177777777778
+Chynna Phillips,13,43,United States,Singer/Rapper,9,0.079882,7.5
+Kristin Cavallari,13,24,United States,TV Personality,10,0.06384066666666667,7.2222219999999995
+Carson Kressley,13,41,United States,TV Personality,8,0.0961726,6.4666668000000005
+Chaz Bono,13,42,United States,TV Personality,7,0.09574083333333333,6.277777833333334
+Nancy Grace,13,51,United States,TV Personality,5,0.125244375,7.0416665
+Rob Kardashian,13,24,United States,TV Personality,2,0.1691286,8.1277666
+William Levy,14,31,Cuba,Actor/Actress,3,0.15172409999999997,9.255553299999999
+Jack Wagner,14,52,United States,Actor/Actress,11,0.06226633333333333,7.555555666666667
+Sherri Sheperd,14,44,United States,Actor/Actress,10,0.07272225,7.5833335
+Jaleel White,14,35,United States,Actor/Actress,7,0.09753657142857143,8.642847571428572
+Roshon Fegan,14,20,United States,Actor/Actress,6,0.1251535,8.6666585
+Melissa Gilbert,14,47,United States,Actor/Actress,5,0.109707375,7.75
+Martina Navratilova,14,55,Czechoslovakia,Athlete,12,0.0386275,6.166667
+Donald Driver,14,37,United States,Athlete,1,0.18195129999999998,9.0388834
+Gavin DeGraw,14,35,United States,Singer/Rapper,9,0.0831014,7.133333400000001
+Gladys Knight,14,67,United States,Singer/Rapper,8,0.0919485,7.333333333333333
+Katherine Jenkins,14,31,Wales,Singer/Rapper,2,0.15353699999999998,9.5166635
+Maria Menounos,14,33,United States,TV Personality,4,0.11601122222222221,8.907403666666667
+Gilles Marini,15,36,France,Actor/Actress,6,0.09975425,9.298020875
+Sabrina Bryan,15,28,United States,Actor/Actress,8,0.09146349999999999,8.881944500000001
+Kirstie Alley,15,61,United States,Actor/Actress,7,0.112422,8.0729125
+Kelly Monaco,15,36,United States,Actor/Actress,3,0.158382,9.0643399
+Apolo Anton Ohno,15,30,United States,Athlete,5,0.12688744444444444,9.148655555555557
+Emmitt Smith,15,43,United States,Athlete,4,0.12689611111111113,9.039085111111111
+Shawn Johnson,15,20,United States,Athlete,2,0.1569757,9.4550799
+Pamela Anderson,15,45,Canada,Model,13,0.012619,5.666667
+Helio Castroneves,15,37,Brazil,Racing Driver,10,0.062685,7.7777780000000005
+Joey Fatone,15,35,United States,Singer/Rapper,12,0.041712,7.1666665
+Drew Lachey,15,36,United States,Singer/Rapper,11,0.07436066666666667,7.555555666666667
+Bristol Palin,15,21,United States,TV Personality,9,0.067177,7.0
+Melissa Rycroft,15,29,United States,TV Personality,1,0.1540299,9.4703567
+Ingo Rademacher,16,41,Germany,Actor/Actress,5,0.09685488888888888,7.5000001111111105
+Zendaya,16,16,United States,Actor/Actress,2,0.16381600000000002,9.0999935
+Dorothy Hamill,16,56,United States,Athlete,12,0.0566875,6.0
+Victor Ortiz,16,26,United States,Athlete,8,0.08588216666666666,6.555555666666667
+Alexandra Raisman,16,18,United States,Athlete,4,0.1573751,8.8166667
+Jacoby Jones,16,28,United States,Athlete,3,0.15003850000000002,8.3999901
+D. L. Hughley,16,50,United States,Comedian,9,0.0648262,5.5333331999999995
+Andy Dick,16,47,United States,Comedian,7,0.08819942857142857,6.309524000000001
+Wynonna Judd,16,48,United States,Singer/Rapper,11,0.06202033333333334,5.666666666666667
+Kellie Pickler,16,26,United States,Singer/Rapper,1,0.1599891,8.9166668
+Lisa Vanderpump,16,52,England,TV Personality,10,0.057235,6.25
+Sean Lowe,16,29,United States,TV Personality,6,0.103865875,7.16666675
+Valerie Harper,17,74,United States,Actor/Actress,10,0.0669515,6.1666665
+Brant Daugherty,17,28,United States,Actor/Actress,7,0.103164,8.604166625
+Elizabeth Berkley Lauren,17,39,United States,Actor/Actress,6,0.11578899999999999,8.851844333333334
+Leah Remini,17,43,United States,Actor/Actress,5,0.1193821,8.2958299
+Corbin Bleu,17,24,United States,Actor/Actress,2,0.15709627272727272,9.220948545454545
+Amber Riley,17,27,United States,Actor/Actress,1,0.16413054545454545,9.210851454545455
+Keyshawn Johnson,17,41,United States,Athlete,12,0.0358315,5.8333335
+Bill Engvall,17,56,United States,Comedian,4,0.1426589090909091,7.575751545454546
+Christina Milian,17,31,United States,Singer/Rapper,9,0.083114,8.3333332
+"Nicole ""Snooki"" Polizzi",17,25,Chile,TV Personality,8,0.08279571428571429,8.38095242857143
+Jack Osbourne,17,27,England,TV Personality,3,0.12181327272727271,8.700748454545455
+Bill Nye,17,57,United States,TV Personality,11,0.053824000000000004,5.222222333333334
+Billy Dee Williams,18,76,United States,Actor/Actress,10,0.06301,5.0
+Danica McKellar,18,39,United States,Actor/Actress,6,0.108771125,8.78125
+James Maslow,18,23,United States,Actor/Actress,4,0.1581445,8.875
+Candace Cameron Bure,18,37,United States,Actor/Actress,3,0.1547576,8.2999933
+Sean Avery,18,33,Canada,Athlete,11,0.0579825,6.8333335
+Diana Nyad,18,64,United States,Athlete,12,0.002598,6.0
+Charlie White,18,26,United States,Athlete,5,0.11627266666666666,9.02314811111111
+Amy Purdy,18,34,United States,Athlete,2,0.1525772,9.126386700000001
+Meryl Davis,18,27,United States,Athlete,1,0.1607015,9.3583333
+Drew Carey,18,55,United States,Comedian,8,0.09159816666666666,7.458333333333333
+Cody Simpson,18,17,Australia,Singer/Rapper,9,0.0667894,7.9333332
+NeNe Leakes,18,46,United States,TV Personality,7,0.09906428571428572,7.892857142857143
+Antonio Sabato Jr.,19,42,Italy,Actor/Actress,8,0.0765882857142857,7.125
+Jonathan Bennett,19,33,United States,Actor/Actress,9,0.079827,7.166666666666667
+Lea Thompson,19,53,United States,Actor/Actress,6,0.10946855555555556,8.472222222222221
+Janel Parrish,19,25,United States,Actor/Actress,3,0.15593572727272728,9.04545
+Alfonso Ribeiro,19,42,United States,Actor/Actress,1,0.157148,9.181818181818182
+Lolo Jones,19,32,United States,Athlete,13,0.002631,5.5
+Randy Couture,19,51,United States,Athlete,11,0.06486166666666666,7.083333333333333
+Tommy Chong,19,76,Canada,Comedian,5,0.09421979999999999,7.1625
+Betsey Johnson,19,72,United States,Fashion Designer,10,0.062613,6.625
+Michael Waltrip,19,51,United States,Racing Driver,7,0.09428475,6.40625
+Tavis Smiley,19,50,United States,Radio Personality,12,0.0417215,7.125
+Bethany Mota,19,18,United States,Social Media Personality,4,0.15639427272727272,9.011363636363637
+Sadie Robertson,19,17,United States,TV Personality,2,0.1461691818181818,8.791663636363635
+Suzanne Somers,20,68,United States,Actor/Actress,9,0.0797934,6.7
+Willow Shields,20,14,United States,Actor/Actress,7,0.10020242857142857,8.482142857142858
+Riker Lynch,20,23,United States,Actor/Actress,2,0.1754455,9.075
+Rumer Willis,20,26,United States,Actor/Actress,1,0.1768141,9.0625
+Nastia Liukin,20,25,Russia,Athlete,4,0.11503677777777778,9.097222222222221
+Michael Sam,20,25,United States,Athlete,10,0.0680345,6.75
+Robert Herjavec,20,52,Croatia,Entrepreneur,6,0.0946825,7.453125
+Charlotte McKinney,20,21,United States,Model,11,0.06117366666666666,5.833333333333333
+Noah Galloway,20,33,United States,Motivational Speaker,3,0.162412,8.0125
+Redfoo,20,39,United States,Singer/Rapper,12,0.037303,6.625
+Patti LaBelle,20,70,United States,Singer/Rapper,8,0.08494933333333334,6.916666666666667
+Chris Soules,20,33,United States,TV Personality,5,0.11501887499999999,7.09375
+Gary Busey,21,71,United States,Actor/Actress,10,0.06247925,5.52083325
+Alexa PenaVega,21,27,United States,Actor/Actress,6,0.12637766666666667,8.518511111111112
+Carlos PenaVega,21,26,United States,Actor/Actress,4,0.15669736363636363,8.99999390909091
+Victor Espinoza,21,43,Mexico,Athlete,12,0.0480395,5.5833335
+Alek Skarlatos,21,22,United States,Military,3,0.14128863636363634,8.21211809090909
+Chaka Khan,21,62,United States,Singer/Rapper,13,0.0485385,4.6666665
+Andy Grammer,21,31,United States,Singer/Rapper,7,0.10538725,8.19790825
+Tamar Braxton,21,38,United States,Singer/Rapper,5,0.11935077777777778,8.537037111111111
+Nick Carter,21,35,United States,Singer/Rapper,2,0.15682454545454547,9.106060636363637
+Hayes Grier,21,15,United States,Social Media Personality,8,0.08950357142857143,7.976190428571428
+Bindi Irwin,21,17,Australia,TV Personality,1,0.12405218181818181,9.280303
+Kim Zolciak-Biermann,21,37,United States,TV Personality,11,0.053764,5.0833335
+Paula Deen,21,68,United States,TV Personality,9,0.06678733333333332,5.777777833333334
+Mischa Barton,22,30,England,Actor/Actress,11,0.044007333333333336,5.444444333333333
+Kim Fields,22,46,United States,Actor/Actress,8,0.09755971428571429,7.428571428571429
+Jodie Sweetin,22,34,United States,Actor/Actress,6,0.101523375,7.9583333750000005
+Doug Flutie,22,53,United States,Athlete,9,0.080994,6.388889
+Von Miller,22,27,United States,Athlete,7,0.09573642857142857,7.4642858571428565
+Antonio Brown,22,27,United States,Athlete,5,0.11758688888888888,7.898148222222223
+Paige VanZant,22,22,United States,Athlete,2,0.1575601,8.69722
+Geraldo Rivera,22,72,United States,Journalist,12,0.035887,4.333333
+Nyle DiMarco,22,26,United States,Model,1,0.15589809999999998,8.69166
+Ginger Zee,22,35,United States,News Anchor,3,0.1489647,8.4611067
+Wanya Morris,22,42,United States,Singer/Rapper,4,0.1324132222222222,8.56481488888889
+Marla Maples,22,52,United States,TV Personality,10,0.06768725,6.91666675
+Jake T. Austin,23,21,United States,Actor/Actress,13,0.0360865,5.75
+Maureen McCormick,23,60,United States,Actor/Actress,8,0.08169885714285714,7.285714285714286
+Marilu Henner,23,64,United States,Actor/Actress,6,0.10416266666666667,7.740740777777778
+Ryan Lochte,23,32,United States,Athlete,7,0.08825525,7.25
+Calvin Johnson Jr.,23,30,United States,Athlete,3,0.148811,8.530297727272727
+Laurie Hernandez,23,16,United States,Athlete,1,0.1528809090909091,9.140148454545455
+Amber Rose,23,32,United States,Model,9,0.08025083333333333,6.875
+Rick Perry,23,66,United States,Politician,12,0.052285,5.416666666666667
+James Hinchcliffe,23,29,Canada,Racing Driver,2,0.12856536363636364,9.113625727272726
+Babyface,23,57,United States,Singer/Rapper,11,0.0732125,6.5625
+Vanilla Ice,23,48,United States,Singer/Rapper,10,0.07738875,6.54166675
+Jana Kramer,23,32,United States,Singer/Rapper,4,0.150406,8.545454636363637
+Terra Jole,23,36,United States,TV Personality,5,0.1084363,8.2458333
+Charo,24,66,Spain,Actor/Actress,11,0.04827833333333333,5.833333333333333
+Mr. T,24,64,United States,Actor/Actress,10,0.06477075,5.875
+Heather Morris,24,30,United States,Actor/Actress,8,0.09013399999999999,8.208333333333334
+Nancy Kerrigan,24,47,United States,Athlete,7,0.10742942857142856,8.125
+Bonner Bolton,24,29,United States,Athlete,5,0.1111295,7.109375
+Simone Biles,24,20,United States,Athlete,4,0.12070311111111111,8.791666666666666
+David Ross,24,40,United States,Athlete,2,0.1648382,7.8208325
+Rashad Jennings,24,32,United States,Athlete,1,0.1777898,8.791665
+Chris Kattan,24,46,United States,Comedian,12,0.0369685,4.875
+Erika Jayne,24,45,United States,Singer/Rapper,9,0.0725202,7.0
+Normani,24,20,United States,Singer/Rapper,3,0.180346,8.97083
+Nick Viall,24,36,United States,TV Personality,6,0.09451871428571428,7.267857142857143
+Sasha Pieterse,25,21,South Africa,Actor/Actress,10,0.059785,7.166666599999999
+Frankie Muniz,25,31,United States,Actor/Actress,3,0.1528729,8.3805508
+Jordan Fisher,25,23,United States,Actor/Actress,1,0.1577512,9.175
+Derek Fisher,25,43,United States,Athlete,11,0.062715,6.75
+Nikki Bella,25,33,United States,Athlete,8,0.09687557142857142,7.738095285714286
+Terrell Owens,25,43,United States,Athlete,6,0.08945675,7.59375
+Victoria Arlen,25,22,United States,Athlete,5,0.10918288888888888,8.175925777777778
+Barbara Corcoran,25,68,United States,Entrepreneur,13,0.043336,5.166667
+Lindsey Stirling,25,31,United States,Musician,2,0.1468191,8.8833333
+Debbie Gibson,25,47,United States,Singer/Rapper,12,0.072682,6.25
+Nick Lachey,25,43,United States,Singer/Rapper,9,0.08671416666666666,6.749999833333334
+Drew Scott,25,39,Canada,TV Personality,4,0.1158565,7.8374999
+Vanessa Lachey,25,36,Philippines,TV Personality,7,0.08406685714285714,8.071428571428571
+Jamie Anderson,26,27,United States,Athlete,10,0.054961,6.333333
+Johnny Damon,26,44,United States,Athlete,9,0.052218,6.0
+Kareem Abdul-Jabbar,26,71,United States,Athlete,8,0.087011,6.5208335
+Arike Ogunbowale,26,21,United States,Athlete,7,0.10999300000000001,7.7083335
+Jennie Finch Daigle,26,37,United States,Athlete,6,0.11925000000000001,7.375
+Chris Mazdzer,26,29,United States,Athlete,5,0.126923,7.833333333333333
+Mirai Nagasu,26,25,United States,Athlete,4,0.137317,8.555555666666667
+Tonya Harding,26,47,United States,Athlete,3,0.1905055,8.5
+Josh Norman,26,30,United States,Athlete,2,0.1939485,8.71875
+Adam Rippon,26,28,United States,Athlete,1,0.20263175,9.291666750000001
+Juan Pablo Di Pace,27,39,Argentina,Actor/Actress,5,0.10451325,9.125
+Evanna Lynch,27,27,Ireland,Actor/Actress,3,0.117792,8.685185222222223
+Nancy McKeon,27,52,United States,Actor/Actress,11,0.056765666666666666,6.888888666666666
+John Schneider,27,58,United States,Actor/Actress,8,0.10035728571428572,7.214285714285714
+Milo Manheim,27,17,United States,Actor/Actress,2,0.14722288888888888,9.092592777777778
+Danelle Umstead,27,46,United States,Athlete,12,0.0394205,6.0833335
+Mary Lou Retton,27,50,United States,Athlete,9,0.08593083333333333,7.888889
+DeMarcus Ware,27,36,United States,Athlete,7,0.10433271428571429,8.238095285714286
+Nikki Glaser,27,34,United States,Comedian,13,0.002675,5.833333
+Bobby Bones,27,38,United States,Radio Personality,1,0.13053255555555554,7.462963
+Tinashe,27,25,United States,Singer/Rapper,10,0.0780625,8.50000025
+Alexis Ren,27,21,United States,Social Media Personality,4,0.14834733333333333,8.833333444444444
+Joe Amabile,27,32,United States,TV Personality,6,0.09454475,6.25
+Kate Flannery,28,55,United States,Actor/Actress,7,0.0887435,7.520825
+James Van Der Beek,28,42,United States,Actor/Actress,5,0.1413837,8.3166601
+Kel Mitchell,28,41,United States,Actor/Actress,2,0.14245109090909092,8.280297000000001
+Ray Lewis,28,44,United States,Athlete,11,0.0400385,5.0
+Lamar Odom,28,39,United States,Athlete,10,0.062037999999999996,4.16666675
+Sailor Brinkley-Cook,28,21,United States,Model,9,0.10342916666666667,7.402777833333334
+Sean Spicer,28,48,United States,Politician,6,0.09807555555555555,5.870370333333333
+Mary Wilson,28,75,United States,Singer/Rapper,12,0.0807305,5.3333335
+Lauren Alaina,28,24,United States,Singer/Rapper,4,0.13036927272727272,7.992424272727273
+Ally Brooke,28,26,United States,Singer/Rapper,3,0.1546127272727273,8.560606
+Karamo Brown,28,38,United States,TV Personality,8,0.08036842857142858,6.833333285714285
+Hannah Brown,28,24,United States,TV Personality,1,0.14717472727272726,8.412872818181818
+Anne Heche,29,51,United States,Actor/Actress,13,0.06610875,6.0
+Jesse Metcalfe,29,41,United States,Actor/Actress,12,0.0739588,6.533333400000001
+Chrishell Stause,29,39,United States,Actor/Actress,8,0.071568125,7.124999875
+Skai Jackson,29,18,United States,Actor/Actress,5,0.1039461,7.849986599999999
+Justina Machado,29,48,United States,Actor/Actress,4,0.12913554545454548,8.363624272727272
+Charles Oakley,29,56,United States,Athlete,15,0.0484025,4.5
+Veron Davis,29,36,United States,Athlete,11,0.060345666666666666,6.722222166666666
+Johnny Weir,29,36,United States,Athlete,6,0.09830520000000001,8.35
+Nev Schulman,29,35,United States,Producer,2,0.12467145454545454,8.787872818181818
+AJ McLean,29,42,United States,Singer/Rapper,7,0.08788966666666667,7.814807444444445
+Nelly,29,45,United States,Singer/Rapper,3,0.12307663636363636,7.65151509090909
+Kaitlyn Bristowe,29,35,Canada,TV Personality,1,0.10432354545454546,8.666666636363637
+Carole Baskin,29,59,United States,TV Personality,14,0.049435,4.333333333333333
+Monica Aldama,29,48,United States,TV Personality,10,0.07382557142857142,7.380952285714286
+Jeannie Mai,29,41,United States,TV Personality,9,0.08035257142857143,7.2857141428571435
+Martin Kove,30,75,United States,Actor/Actress,15,0.0395295,3.5
+Brian Austin Green,30,48,United States,Actor/Actress,13,0.07148475,6.14583325
+Melora Hardin,30,54,United States,Actor/Actress,6,0.09349555555555557,8.504629666666666
+Matt James,30,29,United States,Athlete,12,0.06616425000000001,6.32291675
+"Mike ""The Miz"" Mizanin",30,40,United States,Athlete,9,0.08225057142857142,7.494047571428571
+Suni Lee,30,18,United States,Athlete,5,0.09788044444444445,8.430555555555555
+Iman Shumpert,30,31,United States,Athlete,1,0.1237717,7.933333299999999
+Cody Rigsby,30,34,United States,Fitness Instructor,3,0.11570909999999998,7.9125
+Melanie C,30,47,England,Singer/Rapper,11,0.057015800000000005,7.766666599999999
+Jimmie Allen,30,36,United States,Singer/Rapper,7,0.091781875,7.8177083750000005
+Olivia Jade,30,21,United States,Social Media Personality,8,0.0952585,8.40625
+JoJo Siwa,30,18,United States,Social Media Personality,2,0.1221576,9.175
+Christine Chiu,30,38,Taiwan China,TV Personality,14,0.036414666666666665,6.416666666666667
+Kenya Moore,30,50,United States,TV Personality,10,0.06978366666666667,7.3125
+Amanda Kloots,30,39,United States,TV Personality,4,0.1146478,8.9375
+Jason Lewis,31,51,United States,Actor/Actress,16,0.003161,4.5
+Cheryl Ladd,31,71,United States,Actor/Actress,14,0.04371866666666666,5.5
+Selma Blair,31,50,United States,Actor/Actress,12,0.0798228,7.8
+Joseph Baena,31,24,United States,Actor/Actress,11,0.0593218,6.95
+Trevor Donovan,31,39,United States,Actor/Actress,6,0.10064444444444445,7.958333333333333
+Daniel Durant,31,32,United States,Actor/Actress,5,0.09968288888888889,8.152777777777779
+Wayne Brady,31,50,United States,Comedian,3,0.11843820000000001,9.0625
+Sam Champion,31,61,United States,News Anchor,13,0.06119575,6.0
+Jessie James Decker,31,34,Italy,Singer/Rapper,10,0.06299416666666667,7.083333333333333
+Jordin Sparks,31,32,United States,Singer/Rapper,9,0.06947814285714286,7.857142857142857
+Heidi D'Amelio,31,50,United States,Social Media Personality,8,0.094441625,8.21875
+Charli D'Amelio,31,18,United States,Social Media Personality,1,0.1294848,9.475
+Teresa Giudice,31,50,United States,TV Personality,15,0.028576999999999998,5.375
+Vinny Guadagnino,31,34,United States,TV Personality,7,0.078542875,6.734375
+Shangela,31,40,United States,TV Personality,4,0.1144056,8.6375
+Gabby Windey,31,31,United States,TV Personality,2,0.11936050000000001,9.0625
+Jamie Lynn Spears,32,32,United States,Actor/Actress,13,0.07355400000000001,5.1666665
+Mira Sorvino,32,55,United States,Actor/Actress,10,0.06679260000000001,6.5
+Barry Williams,32,68,United States,Actor/Actress,7,0.101305,6.9322916249999995
+Alyson Hannigan,32,49,United States,Actor/Actress,5,0.11466618181818182,7.318181727272727
+Xochitl Gomez,32,17,United States,Actor/Actress,1,0.1408619090909091,9.12121209090909
+Adrian Peterson,32,38,United States,Athlete,11,0.08400825,5.875
+Matt Walsh,32,58,United States,Comedian,14,0.045718,4.0
+Tyson Beckford,32,52,United States,Model,12,0.06618366666666667,5.0
+Jason Mraz,32,46,United States,Singer/Rapper,2,0.12441690909090909,8.886363636363637
+Lele Pons,32,27,Venezuela,Social Media Personality,8,0.08693228571428571,7.684523714285715
+Harry Jowsey,32,26,Australia,TV Personality,6,0.118464,6.416666666666667
+Mauricio Umansky,32,53,Mexico,TV Personality,9,0.06311633333333334,6.222222166666666
+Charity Lawson,32,27,United States,TV Personality,4,0.13196445454545455,8.825757454545455
+Ariana Madix,32,38,United States,TV Personality,3,0.13125272727272727,8.840909090909092
+Tori Spelling,33,51,United States,Actor/Actress,12,0.062159,6.0
+Eric Roberts,33,68,United States,Actor/Actress,10,0.07084033333333334,5.25
+Reginald VelJohnson,33,74,United States,Actor/Actress,10,0.067733,5.194444333333333
+Chandler Kinney,33,24,United States,Actor/Actress,3,0.13497133333333333,9.069444555555556
+Dwight Howard ,33,38,United States,Athlete,6,0.11122742857142856,7.821428428571429
+Danny Amendola,33,39,United States,Athlete,5,0.14309666666666668,8.314814777777777
+Stephen Nedoroscik,33,26,United States,Athlete,4,0.14719133333333334,8.370370222222222
+Ilona Maher,33,28,United States,Athlete,2,0.14895722222222224,8.037037111111111
+Anna Delvey,33,33,Russia,Con artist,12,0.040663,5.8333335
+Brooks Nader,33,27,United States,Model,9,0.062782,7.07291675
+Phaedra Parks,33,51,United States,TV Personality,8,0.0791972,7.266666599999999
+Jenn Tran,33,26,United States,TV Personality,7,0.075548,7.874999833333334
+Joey Graziadei,33,29,United States,TV Personality,1,0.14796566666666666,8.898148222222224
+Corey Feldman,34,54,United States,Actor/Actress,13,0.0573985,4.75
+Danielle Fishel,34,44,United States,Actor/Actress,8,0.07245262499999999,7.5729166249999995
+Elaine Hendrix,34,55,United States,Actor/Actress,5,0.11632263636363636,8.1856
+Baron Davis,34,46,United States,Athlete,13,0.064853,5.5
+Jordan Chiles,34,24,United States,Athlete,3,0.13070363636363636,8.588381818181817
+Andy Richter,34,59,United States,Comedian,7,0.09802388888888888,6.3981481111111105
+Robert Irwin,34,22,Australia,Conservationist,1,0.11652345454545454,8.838381727272727
+Hilaria Baldwin,34,41,United States,Entrepreneur,11,0.061743,7.25
+Lauren Jauregui,34,29,United States,Singer/Rapper,12,0.06200933333333333,6.5
+Scott Hoying,34,34,United States,Singer/Rapper,10,0.0705965,6.638888833333333
+Alix Earle,34,24,United States,Social media personality,2,0.13099663636363637,8.791666727272728
+Jen Affleck,34,26,United States,TV Personality,9,0.07136442857142856,7.297618999999999
+Whitney Leavitt,34,32,United States,TV Personality,6,0.1109957,8.970833299999999
+Dylan Efron,34,33,United States,TV Personality,4,0.12614209090909093,8.404036454545455
